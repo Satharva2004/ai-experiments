@@ -2,6 +2,9 @@
 
 Fine-tunes **Qwen3-4B** and **Gemma 3 4B-IT** on the [Spider 1.0](https://yale-lily.github.io/spider) text-to-SQL benchmark using **QLoRA** (via [Unsloth](https://github.com/unslothai/unsloth)), then benchmarks base vs. fine-tuned on **exact match**, **valid-SQL rate**, and **execution accuracy** — verified by actually running the generated SQL against the real Spider SQLite databases.
 
+<img width="1408" height="768" alt="1000156319" src="https://github.com/user-attachments/assets/013b4e5d-d652-4b34-8893-7dced4ee5bd2" />
+
+
 📊 **[View the interactive benchmark report](./spider_sql_benchmark_chart.html)** — open directly in any browser, no server needed.
 
 ---
