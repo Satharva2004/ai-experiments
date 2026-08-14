@@ -79,8 +79,3 @@ Qwen3 is a reasoning model and emits `<think>...</think>` before its answer — 
 4. Open `spider_sql_benchmark_chart.html` in a browser to view the results.
 
 ---
-
-## Notes & limitations
-
-- Benchmark numbers above are on a **30-example sample** for fast iteration; the notebook supports scaling `EVAL_SAMPLE_SIZE` up to the full 1,034-example validation set for a more statistically robust comparison.
-- "Difficulty" bucketing used during analysis is a heuristic (join/subquery/aggregation count), not Spider's official difficulty labels.
