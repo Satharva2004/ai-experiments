@@ -1,0 +1,10 @@
+trl
+num2words
+wandb
+huggingface_hub
+datasets
+pillow
+tqdm
+transformers
+accelerate
+torchvision
