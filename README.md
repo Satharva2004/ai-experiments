@@ -18,7 +18,12 @@ Gave the model a card image and this prompt:
 
 Base model mostly guesses or rambles. Fine-tuned model nails the structured output almost every time.
 
-![Base vs fine-tuned accuracy](assets/before_after_accuracy.png)
+<table>
+<tr>
+<td width="50%"><img src="assets/before_after_accuracy.png" width="100%"><p align="center"><sub>Base vs. fine-tuned accuracy</sub></p></td>
+<td width="50%"><img src="assets/eval_loss_curve.png" width="100%"><p align="center"><sub>Validation loss during training</sub></p></td>
+</tr>
+</table>
 
 | | Exact match (all 3 fields) | `name` | `hp` | `set_name` | JSON parse failures |
 |---|---|---|---|---|---|
@@ -26,10 +31,6 @@ Base model mostly guesses or rambles. Fine-tuned model nails the structured outp
 | **Fine-tuned model** | **86%** | 93% | 99% | 94% | 0/100 |
 
 *(measured on 100 held-out validation cards the model never trained on)*
-
-## Training curve
-
-![Validation loss curve](assets/eval_loss_curve.png)
 
 Loss drops fast in the first ~400 steps, wobbles a bit, then the best checkpoint lands at **step 800** (`eval_loss = 0.00917`) — training kept going to step 900 but validation loss ticked back up slightly there, so step 800 is what actually got saved and pushed (thanks to `load_best_model_at_end`).
 
