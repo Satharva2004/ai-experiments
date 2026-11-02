@@ -1,0 +1,146 @@
+[
+  {
+    "vertical": "finance",
+    "approach": "vector",
+    "n": 20,
+    "retrieval_hit_rate": 1.0,
+    "avg_judge_score": 4.8,
+    "avg_retrieval_latency_s": 1.455,
+    "avg_generation_latency_s": 2.521
+  },
+  {
+    "vertical": "finance",
+    "approach": "bm25",
+    "n": 20,
+    "retrieval_hit_rate": 1.0,
+    "avg_judge_score": 4.85,
+    "avg_retrieval_latency_s": 0.005,
+    "avg_generation_latency_s": 4.486
+  },
+  {
+    "vertical": "finance",
+    "approach": "hybrid",
+    "n": 20,
+    "retrieval_hit_rate": 1.0,
+    "avg_judge_score": 4.9,
+    "avg_retrieval_latency_s": 1.353,
+    "avg_generation_latency_s": 2.62
+  },
+  {
+    "vertical": "finance",
+    "approach": "graph",
+    "n": 20,
+    "retrieval_hit_rate": 0.7,
+    "avg_judge_score": 4.1,
+    "avg_retrieval_latency_s": 1.677,
+    "avg_generation_latency_s": 3.35
+  },
+  {
+    "vertical": "marketing",
+    "approach": "vector",
+    "n": 20,
+    "retrieval_hit_rate": 0.6,
+    "avg_judge_score": 4.2,
+    "avg_retrieval_latency_s": 2.028,
+    "avg_generation_latency_s": 6.854
+  },
+  {
+    "vertical": "marketing",
+    "approach": "bm25",
+    "n": 20,
+    "retrieval_hit_rate": 0.3,
+    "avg_judge_score": 3.9,
+    "avg_retrieval_latency_s": 0.005,
+    "avg_generation_latency_s": 7.701
+  },
+  {
+    "vertical": "marketing",
+    "approach": "hybrid",
+    "n": 20,
+    "retrieval_hit_rate": 0.25,
+    "avg_judge_score": 1.95,
+    "avg_retrieval_latency_s": 2.441,
+    "avg_generation_latency_s": 3.972
+  },
+  {
+    "vertical": "marketing",
+    "approach": "graph",
+    "n": 20,
+    "retrieval_hit_rate": 0.35,
+    "avg_judge_score": 1.8,
+    "avg_retrieval_latency_s": 2.978,
+    "avg_generation_latency_s": 3.905
+  },
+  {
+    "vertical": "product",
+    "approach": "vector",
+    "n": 20,
+    "retrieval_hit_rate": 0.4,
+    "avg_judge_score": 2.45,
+    "avg_retrieval_latency_s": 6.582,
+    "avg_generation_latency_s": 1.171
+  },
+  {
+    "vertical": "product",
+    "approach": "bm25",
+    "n": 20,
+    "retrieval_hit_rate": 0.2,
+    "avg_judge_score": 1.8,
+    "avg_retrieval_latency_s": 0.027,
+    "avg_generation_latency_s": 3.192
+  },
+  {
+    "vertical": "product",
+    "approach": "hybrid",
+    "n": 20,
+    "retrieval_hit_rate": 0.4,
+    "avg_judge_score": 2.25,
+    "avg_retrieval_latency_s": 0.853,
+    "avg_generation_latency_s": 2.382
+  },
+  {
+    "vertical": "product",
+    "approach": "graph",
+    "n": 20,
+    "retrieval_hit_rate": 0.35,
+    "avg_judge_score": 2.25,
+    "avg_retrieval_latency_s": 2.365,
+    "avg_generation_latency_s": 3.429
+  },
+  {
+    "vertical": "service",
+    "approach": "vector",
+    "n": 20,
+    "retrieval_hit_rate": 0.15,
+    "avg_judge_score": 3.65,
+    "avg_retrieval_latency_s": 1.094,
+    "avg_generation_latency_s": 3.076
+  },
+  {
+    "vertical": "service",
+    "approach": "bm25",
+    "n": 20,
+    "retrieval_hit_rate": 0.1,
+    "avg_judge_score": 3.55,
+    "avg_retrieval_latency_s": 0.003,
+    "avg_generation_latency_s": 4.694
+  },
+  {
+    "vertical": "service",
+    "approach": "hybrid",
+    "n": 20,
+    "retrieval_hit_rate": 0.1,
+    "avg_judge_score": 4.25,
+    "avg_retrieval_latency_s": 1.219,
+    "avg_generation_latency_s": 3.616
+  },
+  {
+    "vertical": "service",
+    "approach": "graph",
+    "n": 20,
+    "retrieval_hit_rate": 0.1,
+    "avg_judge_score": 3.7,
+    "avg_retrieval_latency_s": 3.244,
+    "avg_generation_latency_s": 3.529
+  }
+]

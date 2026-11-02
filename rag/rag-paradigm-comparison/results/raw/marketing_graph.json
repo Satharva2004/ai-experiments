@@ -1,0 +1,320 @@
+[
+  {
+    "id": "marketing-0",
+    "question": "Develop a social media campaign to increase brand awareness and drive sales for a new sustainable fashion line.\nContext: Company: GreenCycle Clothing\nTarget Audience: Environmentally conscious millennials\nConstraints: Limited budget ($5,000)\nGoals: 20% increase in brand awareness, 15% increase in sales\nWorkflow Stage: Strategy",
+    "gold_answer": "\"Revolutionize Your Wardrobe\" campaign, leveraging Instagram and TikTok influencers to showcase eco-friendly fashion. Collaborate with 5 influencers for sponsored content, utilizing hashtags #SustainabilityInFashion and #GreenCycleClothing. Allocate $2,000 for influencer partnerships, $1,500 for targeted ads, and $1,500 for content creation. Monitor engagement and adjust ad spend accordingly.",
+    "generated_answer": "**Strategy – “Eco‑Warriors Unite” (adapted for GreenCycle Clothing)**  \n\n| Element | Details (drawn from the provided context) |\n|---------|-------------------------------------------|\n| **Core Idea** | Launch a hashtag‑driven challenge that invites environmentally‑conscious millennials to showcase their sustainable fashion choices and tag **GreenCycle**. |\n| **Platforms** | Instagram (Reels, Stories, Posts) and TikTok – the same formats highlighted in the “Eco‑Warriors Unite” and “EcoChallenge” briefs. |\n| **Content Mix** | • Short Reels/TikTok videos showing outfit “before‑and‑after” with GreenCycle pieces.<br>• Influencer‑created sponsored reels that explain the line’s eco‑materials and waste‑reduction story.<br>• User‑generated posts using the branded hashtag **#EcoWarriorsUniteGC**. |\n| **Influencer Collaboration** | Partner with 3–4 micro‑eco‑influencers (10‑30 k followers) who align with the millennial eco‑conscious segment. Provide them with product samples and a modest fee (≈$800 total). |\n| **Incentive** | Offer a unique discount code (e.g., **GREEN15**) to anyone who posts a Reel/TikTok with the hashtag and tags GreenCycle. This mirrors the discount incentive in the “Eco‑Chic Challenge.” |\n| **Hashtag & Tagging** | Primary hashtag: **#EcoWarriorsUniteGC**.<br>Secondary tags: #SustainableStyle, #GreenCycle, plus tags of partner eco‑brands (as suggested in #2). |\n| **Budget Allocation (≤ $5,000)** | • Influencer fees: $800<br>• Paid boost for the launch Reel on Instagram: $500 (as in #2)<br>• Small ad spend on TikTok to seed the challenge: $1,200<br>• Creative assets (graphics, video editing): $700<br>• Discount fulfillment (estimated cost of discounts): $800<br>• Contingency/monitoring tools: $1,000 |\n| **KPIs to Track** | • Hashtag usage & reach (aim for 20 % lift in brand awareness).<br>• Click‑throughs to product pages from Reels/TikTok.<br>• Redemption rate of **GREEN15** discount (targeting 15 % sales increase). |\n| **Timeline (Strategy Phase)** | 1‑Week planning & influencer outreach.<br>2‑Week content creation & asset prep.<br>Launch week: push the challenge, boost the first Reel, and begin paid TikTok seeding.<br>4‑Week active challenge period, with weekly performance reviews. |\n\n**Resulting Campaign** – By leveraging the proven tactics from the “Eco‑Warriors Unite” and “EcoChallenge” briefs—branded hashtag challenges, influencer‑driven Reels, user‑generated content, and a discount incentive—this strategy fits the $5 k budget while targeting eco‑mindful millennials and meeting the stated awareness and sales goals.",
+    "retrieved_doc_ids": [
+      "marketing-7",
+      "marketing-86",
+      "marketing-50"
+    ],
+    "retrieval_hit": false,
+    "judge_score": 2,
+    "judge_reasoning": "Different concept, lacks key details",
+    "retrieval_latency_s": 1.759,
+    "generation_latency_s": 2.199
+  },
+  {
+    "id": "marketing-1",
+    "question": "Create a content calendar for a B2B software company's blog to establish thought leadership in AI and machine learning.\nContext: Company: NovaTech Solutions\nTarget Audience: Business owners and IT professionals\nConstraints: Publish 2 articles per week\nGoals: 50% increase in website traffic, 20% increase in lead generation\nWorkflow Stage: Content Creation",
+    "gold_answer": "\"AI Insights\" series, covering topics like AI adoption, ML applications, and industry trends. Allocate Mondays for \"Myth-Busting Mondays\" and Thursdays for \"Throwback Thursdays,\" highlighting past successes. Utilize SEO keywords, meta descriptions, and optimize images. Schedule 8 articles per month, with 2 in-depth guides and 2 listicles.",
+    "generated_answer": "The provided context does not contain information needed to create a blog content calendar for NovaTech Solutions.",
+    "retrieved_doc_ids": [
+      "marketing-2",
+      "marketing-163",
+      "marketing-131"
+    ],
+    "retrieval_hit": false,
+    "judge_score": 1,
+    "judge_reasoning": "Fails to provide calendar",
+    "retrieval_latency_s": 0.984,
+    "generation_latency_s": 0.629
+  },
+  {
+    "id": "marketing-2",
+    "question": "Design a targeted email campaign to re-engage inactive subscribers for a fitness and wellness center.\nContext: Company: FitZone\nTarget Audience: Inactive subscribers (6+ months)\nConstraints: Limited email list (5,000 subscribers)\nGoals: 20% re-engagement rate, 10% conversion rate\nWorkflow Stage: Email Campaign",
+    "gold_answer": "\"Get Moving Again\" campaign, featuring a 3-email sequence: 1) \"We Miss You\" (personalized greeting, special offer), 2) \"New Classes and Workshops\" (showcasing new services), and 3) \"Exclusive Discounts\" (limited-time promotions). Use segmentation to tailor content based on subscriber interests and inactivity duration. Schedule emails 1 week apart, with A/B testing for subject lines and CTAs.",
+    "generated_answer": "**FitZone “Welcome Back to Wellness” – 3‑Email Re‑Engagement Sequence**\n\n| Email | Subject / Hook | Core Content (drawn from context) | CTA |\n|-------|----------------|-----------------------------------|-----|\n| **1 – “We’ve Missed You, [First Name]!”** | “Welcome Back – Your Fitness Journey Awaits” | • Personalized greeting using AI‑powered segmentation to confirm the subscriber has been inactive ≥ 6 months.<br>• Brief recap of FitZone’s core offerings (group classes, personal training, wellness workshops).<br>• “We’ve missed you” message that acknowledges the gap and invites them to rediscover the community. | **“Explore Current Programs”** – link to a landing page with a quick overview. |\n| **2 – “Real People, Real Results”** | “See How Members Like You Got Back on Track” | • Success stories/testimonials from active members (mirroring the “Real People, Real Results” approach).<br>• Highlight measurable outcomes (e.g., weight loss, strength gains, stress reduction).<br>• Include a short video or quote carousel to build credibility. | **“Read More Success Stories”** – link to a testimonial gallery. |\n| **3 – “Exclusive Offer: 10 % Off Your Next Membership”** | “Limited‑Time Deal – Re‑Activate Today!” | • Offer a 10 % discount on the next membership renewal or class package (similar to the “Limited Time Offer” in the smartwatch campaign).<br>• Emphasize scarcity (“Offer expires in 7 days”).<br>• Reinforce the “we’ve missed you” sentiment and the value of returning now. | **“Redeem My Discount”** – button that takes them to a pre‑filled checkout page. |\n\n### Execution Details\n- **Segmentation:** Use AI‑powered segmentation (as in context [1]) to isolate the 5,000 inactive subscribers (≥ 6 months no activity).  \n- **Timing:** Send Email 1, wait 3 days, send Email 2, wait another 3 days, then send Email 3.  \n- **Personalization:** Insert first name and, where possible, past class preferences to make recommendations feel tailored.  \n- **Metrics to Hit Goals:**  \n  - **Re‑engagement:** Aim for ≥ 20 % opens/clicks across the sequence (≈ 1,000 re‑engaged).  \n  - **Conversion:** Target 10 % of re‑engaged users to purchase a membership or class package (≈ 100 conversions).  \n\nThis three‑step “Welcome Back” campaign leverages personalized messaging, social proof, and a time‑bound discount—directly mirroring the proven tactics from the provided contexts.",
+    "retrieved_doc_ids": [
+      "marketing-185",
+      "marketing-157",
+      "marketing-18"
+    ],
+    "retrieval_hit": false,
+    "judge_score": 2,
+    "judge_reasoning": "Missing key email details",
+    "retrieval_latency_s": 1.027,
+    "generation_latency_s": 1.848
+  },
+  {
+    "id": "marketing-3",
+    "question": "Create a social media campaign to increase brand awareness and drive sales for a sustainable fashion brand.\nContext: Company: GreenThreads, a fashion brand using eco-friendly materials and production methods.\nTarget Audience: Fashion-conscious millennials and Gen Z.\nConstraints: Limited budget, high competition in the sustainable fashion market.\nGoals: Increase brand awareness by 20%, drive sales by 15% within 6 months.\nWorkflow Stage: Strategy",
+    "gold_answer": "Develop a social media campaign highlighting GreenThreads' commitment to sustainability, featuring eco-influencers, and utilizing Instagram Reels and TikTok for engaging content. Allocate $1,500 for influencer partnerships and $1,000 for targeted ads. Create a branded hashtag and encourage user-generated content.",
+    "generated_answer": "**Campaign Name:** **“Eco‑Chic Challenge”**\n\n**Objective (Strategy Stage)**  \n- Boost GreenThreads brand awareness + 20%  \n- Increase sales + 15% within 6 months  \n\n**Core Elements (drawn from Context)**  \n\n1. **Platform focus:** Instagram (primary) – leverages its shopping feature, Reels, Stories, and Posts.  \n2. **Hashtag & Tagging:** Branded hashtag **#EcoChicChallenge**; participants tag **@GreenThreads**.  \n3. **User‑generated content:** Invite fashion‑conscious Millennials & Gen Z to post photos or Reels showing themselves wearing GreenThreads pieces and describing the sustainable choice they made.  \n4. **Incentive:** Offer a discount code to every participant who shares a post meeting the challenge criteria.  \n5. **Influencer partnership:** Collaborate with 3–5 eco‑influencers (as in Context [1] & [2]) to create the first wave of content—styled looks, behind‑the‑scenes of GreenThreads’ eco‑friendly production (as in Context [3]).  \n6. **Paid amplification:** Allocate a modest portion of the limited budget to highly targeted Instagram ads that highlight the brand’s sustainability story and the discount incentive.  \n7. **Shopping integration:** Enable Instagram Shopping on all influencer and brand posts so viewers can purchase the featured items in‑app, ensuring a seamless path from inspiration to sale (Context [1]).  \n8. **Landing page:** Direct traffic to a dedicated “Eco‑Chic Challenge” landing page with a limited‑time offer and a gallery of user submissions (mirroring the landing‑page idea in Context [3]).  \n\n**Timeline (6‑month rollout)**  \n\n- **Month 1–2:** Influencer content creation & launch teaser ads.  \n- **Month 3–5:** Ongoing user‑generated posts, weekly “Spotlight” features, refreshed ad creatives.  \n- **Month 6:** Final push with a “Last‑Chance” discount and a recap video of the challenge highlights.  \n\n**Metrics to track (aligned with goals)**  \n\n- Hashtag mentions & reach (brand awareness).  \n- Instagram profile growth & engagement rates.  \n- Click‑throughs to the landing page & Instagram Shopping conversions (sales).  \n\nBy centering the campaign on Instagram Reels, a branded hashtag challenge, influencer seed content, and integrated shopping—while keeping ad spend targeted and modest—the strategy meets the limited‑budget constraint, differentiates GreenThreads in a competitive market, and directly ties user participation to measurable sales growth.",
+    "retrieved_doc_ids": [
+      "marketing-47",
+      "marketing-7",
+      "marketing-150"
+    ],
+    "retrieval_hit": false,
+    "judge_score": 2,
+    "judge_reasoning": "Missing budget, TikTok, influencers",
+    "retrieval_latency_s": 1.056,
+    "generation_latency_s": 1.861
+  },
+  {
+    "id": "marketing-4",
+    "question": "Design an email marketing campaign to nurture leads for a B2B software company.\nContext: Company: Proxima, a SaaS provider for marketing automation.\nTarget Audience: Marketing professionals and business owners.\nConstraints: High competition, lengthy sales cycle.\nGoals: Increase lead conversion by 25% within 3 months.\nWorkflow Stage: Email Copywriting",
+    "gold_answer": "Create a 5-email nurture sequence: Introduction, Problem agitation, Solution showcase, Social proof, and Exclusive offer. Use personalization and segmentation to tailor content. Include interactive elements like quizzes and surveys to boost engagement.",
+    "generated_answer": "**Email Nurture Sequence (3‑step)**  \n\n| Email | Focus | Core Message | CTA |\n|-------|-------|--------------|-----|\n| **Email 1 – “Unlock Efficiency”** | Highlight a key pain point (e.g., fragmented marketing workflows) and show how Proxima’s automation platform solves it. | *“Stop juggling multiple tools. Proxima consolidates your campaigns, saves time, and boosts ROI.”* | “Schedule a quick demo” |\n| **Email 2 – “Real Results”** | Share a success story and testimonial from a marketing professional or business owner who reduced cycle time and increased conversions using Proxima. | *“See how XYZ Agency cut campaign launch time by 40% and grew leads by 30% with Proxima.”* | “Read the full case study” |\n| **Email 3 – “Exclusive Demo Offer”** | Provide a limited‑time discount or bonus (e.g., free onboarding) to create urgency. | *“For the next 7 days, get 20 % off your first 3 months and a personalized onboarding session.”* | “Claim your offer now” |\n\n**Key Elements to Meet Constraints & Goals**  \n- **High competition:** Emphasize unique automation features and measurable ROI.  \n- **Lengthy sales cycle:** Use progressive storytelling (pain → proof → incentive) to keep prospects engaged over time.  \n- **Conversion target (+25 % in 3 months):** Include clear, single‑action CTAs and track click‑through/booking rates to optimize each email.  \n\nThis three‑email copywriting workflow aligns with the provided example and is tailored to Proxima’s B2B audience.",
+    "retrieved_doc_ids": [
+      "marketing-22",
+      "marketing-96",
+      "marketing-34"
+    ],
+    "retrieval_hit": false,
+    "judge_score": 1,
+    "judge_reasoning": "Missing required emails, incomplete",
+    "retrieval_latency_s": 0.682,
+    "generation_latency_s": 1.629
+  },
+  {
+    "id": "marketing-5",
+    "question": "Develop a content calendar for a health and wellness blog.\nContext: Company: BalancedLife, a wellness blog and coaching service.\nTarget Audience: Health-conscious individuals.\nConstraints: Limited resources, need for consistent content.\nGoals: Increase website traffic by 30% within 6 months.\nWorkflow Stage: Content Scheduling",
+    "gold_answer": "Plan a content calendar with 3 blog posts per week, focusing on topics like mindfulness, nutrition, and fitness. Utilize SEO keywords and meta descriptions. Schedule social media posts to promote blog content and engage with audience.",
+    "generated_answer": "The provided context does not contain enough information to develop a content calendar for the health and wellness blog.",
+    "retrieved_doc_ids": [
+      "marketing-182"
+    ],
+    "retrieval_hit": false,
+    "judge_score": 1,
+    "judge_reasoning": "Incorrect, ignores provided details",
+    "retrieval_latency_s": 2.722,
+    "generation_latency_s": 5.866
+  },
+  {
+    "id": "marketing-6",
+    "question": "Create a paid advertising campaign for a new product launch.\nContext: Company: TechGear, an electronics manufacturer.\nTarget Audience: Tech enthusiasts and early adopters.\nConstraints: Limited budget, high competition.\nGoals: Drive sales and generate buzz around the new product.\nWorkflow Stage: Ad Copywriting",
+    "gold_answer": "Develop targeted Google Ads and Facebook Ads campaigns highlighting the product's unique features and benefits. Allocate $5,000 for ad spend and focus on conversion-driven ad copy.",
+    "generated_answer": "The provided context does not contain information needed to create a paid advertising campaign for TechGear’s new product launch.",
+    "retrieved_doc_ids": [
+      "marketing-75",
+      "marketing-127",
+      "marketing-37"
+    ],
+    "retrieval_hit": false,
+    "judge_score": 1,
+    "judge_reasoning": "Does not address request",
+    "retrieval_latency_s": 6.224,
+    "generation_latency_s": 0.636
+  },
+  {
+    "id": "marketing-7",
+    "question": "Create a social media campaign to increase brand awareness for a new eco-friendly fashion brand.\nContext: Company: GreenThreads, a sustainable fashion brand targeting millennials and Gen Z. Target audience: environmentally conscious fashion enthusiasts. Constraints: limited budget. Goals: increase brand awareness by 20% in 3 months. Workflow stage: strategy.",
+    "gold_answer": "Develop a social media campaign, \"Eco-Chic Challenge,\" encouraging users to share their sustainable fashion choices. Collaborate with eco-influencers, create engaging content (reels, stories, posts) highlighting GreenThreads' commitment to sustainability. Utilize Instagram's \"Reels\" feature to create a branded hashtag challenge, offering discounts to participants who share their own eco-friendly fashion tips.",
+    "generated_answer": "**Campaign Name:** **“Eco‑Chic Challenge”**  \n\n**Objective (Strategy Stage)**  \n- Boost GreenThreads brand awareness by 20 % within 3 months.  \n\n**Target Audience**  \n- Millennials & Gen Z who are environmentally‑conscious fashion enthusiasts.  \n\n**Core Tactics (drawn from Context [1]‑[3])**  \n\n1. **Platform Focus** – Instagram (primary) with supplemental TikTok Reels for cross‑platform reach.  \n2. **Hashtag & Tagging** – Create a branded hashtag **#EcoChicChallenge**; ask participants to tag **@GreenThreads** in every post.  \n3. **User‑Generated Content (UGC)** – Prompt followers to share photos or short videos wearing GreenThreads pieces that reflect their sustainable style. Offer a discount code to anyone who posts with the hashtag.  \n4. **Eco‑Influencer Partnerships** – Partner with 3–4 micro eco‑influencers (as in Context [2] & [3]) to seed the challenge, produce Reels/Stories showing how they style GreenThreads, and explain the brand’s sustainability story.  \n5. **Instagram Shopping Integration** – Enable Instagram’s shopping feature so viewers can tap the product tags in influencer and user posts for a seamless purchase path (Context [1]).  \n6. **Paid Amplification** – Allocate **$1,000** for targeted Instagram ads (and optional TikTok boost) that highlight the brand’s sustainability initiatives and the #EcoChicChallenge call‑to‑action (Context [3]).  \n\n**Budget Summary**  \n- Influencer fees: **$1,500** (per Context [3])  \n- Targeted ads: **$1,000** (per Context [3])  \n- Remaining funds (if any) can support creative assets or modest prize incentives for top UGC entries.  \n\n**Timeline (3‑month rollout)**  \n\n| Week | Activity |\n|------|----------|\n| 1‑2  | Influencer content creation & teaser posts; set up Instagram Shopping; launch hashtag. |\n| 3‑6  | Paid ad bursts (focus on sustainability story); encourage UGC via Stories & Reels. |\n| 7‑10 | Highlight top user posts; offer discount codes; run a mini‑contest for most creative outfit. |\n| 11‑12| Analyze reach metrics; report on awareness lift (aim ≥ 20 %). |\n\n**Key Success Metrics**  \n- Hashtag usage volume.  \n- Reach & impressions from paid ads.  \n- Follower growth on @GreenThreads.  \n- Engagement rate on UGC posts.  \n\nThis plan leverages the proven elements from the provided contexts—eco‑influencer collaborations, Instagram Reels/Stories, a branded hashtag, shopping integration, and a modest $2,500 total spend—to meet the brand‑awareness goal within the limited budget.",
+    "retrieved_doc_ids": [
+      "marketing-47",
+      "marketing-7",
+      "marketing-3"
+    ],
+    "retrieval_hit": true,
+    "judge_score": 3,
+    "judge_reasoning": "Partial alignment, incomplete details",
+    "retrieval_latency_s": 1.045,
+    "generation_latency_s": 7.986
+  },
+  {
+    "id": "marketing-8",
+    "question": "Design an email marketing campaign to boost sales for a B2B software company.\nContext: Company: TechSolutions, a B2B software provider targeting small to medium-sized businesses. Target audience: business owners and decision-makers. Constraints: limited email list. Goals: increase sales by 15% in 2 months. Workflow stage: copywriting.",
+    "gold_answer": "Create a 3-email nurture campaign, \"Unlock Your Business Potential,\" highlighting TechSolutions' software benefits. Email 1: \"Discover the Power of Our Software\" (introductory email with a free trial offer). Email 2: \"Success Stories\" (case studies and testimonials). Email 3: \"Exclusive Offer\" (limited-time discount for subscribers).",
+    "generated_answer": "**Email‑Marketing Campaign – “Unlock Your Business Potential”**  \n*Company:* **TechSolutions** (B2B software for SMBs)  \n*Goal:* +15 % sales in 2 months  \n*Audience:* Business owners & decision‑makers  \n*Constraint:* Small email list – focus on high‑impact, personalized copy  \n\n---\n\n### 1️⃣ Email 1 – “Discover the Power of Our Software” (Intro & Free Trial)  \n- **Subject line:** “{FirstName}, unlock growth for **{CompanyName}**”  \n- **Opening:** Conversational hook that mentions the recipient’s industry (e.g., “Running a fast‑growing retail chain…”)  \n- **Body:** Briefly introduce TechSolutions, highlight 2‑3 core benefits that solve common SMB pain points (efficiency, cost‑control, scalability).  \n- **CTA:** “Start your 14‑day free trial today – no credit card required.”  \n- **Personalization token:** Company name & industry.  \n\n### 2️⃣ Email 2 – “Success Stories” (Case Studies & Testimonials)  \n- **Subject line:** “How **{SimilarCompany}** boosted revenue by 20 % with TechSolutions”  \n- **Opening:** Relate to the pain point from Email 1 (“You mentioned …”)  \n- **Body:** One concise case study (SMB in the same sector) + a short testimonial quote. Include a quick bullet list of measurable results.  \n- **CTA:** “Read the full story & see how you can replicate it.” (link to a landing page).  \n\n### 3️⃣ Email 3 – “Exclusive Offer” (Limited‑Time Discount)  \n- **Subject line:** “Special 25 % discount for **{CompanyName}** – 48 h only!”  \n- **Opening:** Friendly reminder of the trial and success proof.  \n- **Body:** Emphasize urgency (“Only 48 hours left”) and the value of the discount for new subscribers.  \n- **CTA:** Prominent button – “Claim My Discount & Upgrade Now.”  \n\n---\n\n### Copy‑writing Workflow (Stage: Copywriting)  \n1. **Research & Persona Tagging** – confirm industry & pain‑point data for each recipient.  \n2. **Draft** – write each email using the conversational tone shown above; insert personalization tokens.  \n3. **Review** – ensure each email has a single clear CTA and stays under 150 words.  \n4. **A/B Test** – subject lines (e.g., “Unlock Growth” vs. “Boost Revenue”) on a small segment before full send.  \n5. **Schedule** – send Email 1, wait 3 days, send Email 2, wait 2 days, send Email 3.  \n\n---\n\n**Why this works:**  \n- Mirrors the proven 3‑email structure from the provided examples (intro → social proof → exclusive offer).  \n- Directly addresses SMB pain points, shows real results, and creates urgency with a limited‑time discount—key levers for driving a 15 % sales lift in a short window.  \n\n*All elements are drawn from the context examples, adapted to TechSolutions’ target and goals.*",
+    "retrieved_doc_ids": [
+      "marketing-109",
+      "marketing-8",
+      "marketing-34"
+    ],
+    "retrieval_hit": true,
+    "judge_score": 2,
+    "judge_reasoning": "Partial, missing emails",
+    "retrieval_latency_s": 5.757,
+    "generation_latency_s": 1.787
+  },
+  {
+    "id": "marketing-9",
+    "question": "Develop a content marketing strategy for a healthcare company to establish thought leadership.\nContext: Company: MedPro, a healthcare services provider targeting medical professionals and patients. Target audience: healthcare industry experts and patients seeking medical information. Constraints: high competition. Goals: establish thought leadership, increase website traffic by 30% in 6 months. Workflow stage: strategy.",
+    "gold_answer": "Create a content hub, \"MedPro Insights,\" featuring in-depth articles, webinars, and videos on industry trends and best practices. Partner with influential healthcare professionals to contribute guest posts, promoting MedPro's expertise and showcasing its commitment to education and innovation.",
+    "generated_answer": "**Content‑Marketing Strategy for MedPro (Thought‑Leadership Focus)**  \n\n1. **Launch “MedPro Insights” Hub**  \n   - Build a dedicated microsite that aggregates in‑depth articles, webinars, and short videos on emerging healthcare trends and best practices.  \n   - Position the hub as the go‑to resource for both medical professionals and informed patients.  \n\n2. **Leverage Expert Partnerships**  \n   - Invite influential healthcare professionals to contribute guest posts, co‑host webinars, and appear in video interviews.  \n   - Highlight these collaborations in the hub’s “Expert Voices” section to reinforce MedPro’s credibility and commitment to education.  \n\n3. **Content Mix & Formats**  \n   - **Industry Insights:** Data‑driven articles on market shifts, policy changes, and technology adoption.  \n   - **Thought‑Leadership Pieces:** Opinion columns from MedPro executives and partner experts on future care models.  \n   - **Company News:** Updates on MedPro initiatives, research findings, and service expansions.  \n   - **Engagement Assets:** Infographics summarizing key statistics, short explainer videos, and interactive polls to stimulate discussion.  \n\n4. **Publishing Cadence**  \n   - Develop a 12‑week editorial calendar that balances promotional, educational, and engaging posts.  \n   - Schedule 2‑3 hub pieces per week (mix of articles, webinars, videos) and repurpose them across LinkedIn, Twitter, and MedPro’s newsletter.  \n\n5. **Distribution & Amplification**  \n   - Promote each new hub asset via targeted email newsletters to existing subscribers and to the guest‑author’s networks.  \n   - Use paid social boosts for high‑value thought‑leadership articles to reach broader industry audiences.  \n\n6. **Performance Goals & Measurement**  \n   - Track unique visitors, time on page, and social shares for hub content.  \n   - Aim for a 30 % increase in overall website traffic within 6 months, attributing growth to hub‑driven sessions.  \n   - Adjust content topics and formats based on engagement metrics (e.g., higher poll participation → more interactive pieces).  \n\n**Outcome:** By centralizing expert‑driven insights in “MedPro Insights,” delivering a balanced mix of educational and engaging formats, and systematically amplifying the content, MedPro will position itself as a thought leader, differentiate from competitors, and drive the targeted 30 % traffic lift.",
+    "retrieved_doc_ids": [
+      "marketing-9",
+      "marketing-95",
+      "marketing-73"
+    ],
+    "retrieval_hit": true,
+    "judge_score": 4,
+    "judge_reasoning": "Matches core hub concept",
+    "retrieval_latency_s": 3.124,
+    "generation_latency_s": 5.079
+  },
+  {
+    "id": "marketing-10",
+    "question": "Create a social media campaign to increase brand awareness among younger audiences for a sustainable fashion brand.\nContext: Company: GreenThreads; Target Audience: 18-25-year-olds; Constraints: Limited budget; Goals: 20% increase in followers, 15% increase in website traffic; Workflow Stage: Strategy",
+    "gold_answer": "Develop a social media contest, \"Eco-Chic Challenge,\" where followers share their eco-friendly fashion tips using a branded hashtag. Partner with eco-influencers to promote the contest. Allocate 30% of the budget to Instagram Reels and TikTok ads targeting the specified age group. Create engaging content (images, videos, and captions) highlighting GreenThreads' commitment to sustainability.",
+    "generated_answer": "**Campaign Name:** **Eco‑Chic Challenge**\n\n**Objective (Strategy Stage)**\n- Boost brand awareness among 18‑25‑year‑olds.\n- +20 % Instagram followers.\n- +15 % website traffic.\n\n**Key Elements (drawn from the provided context)**  \n\n| Element | How it’s executed | Why it fits the brief |\n|---------|-------------------|-----------------------|\n| **Platform focus** | Instagram (Reels, Stories, Posts) + TikTok snippets | Young users spend most time on short‑form video; both platforms are mentioned in the context. |\n| **Hashtag challenge** | Create a branded hashtag **#EcoChicChallenge**. Participants post Reels/Stories showing their sustainable outfit, tag @GreenThreads and use the hashtag. | Directly mirrors the “Eco‑Chic Challenge” concept and encourages user‑generated content. |\n| **Eco‑influencer partners** | Partner 3–4 micro‑influencers (10k‑50k followers) who already promote eco‑fashion. They launch the challenge with their own Reels and tag the brand. | Influencer partnerships are highlighted in all three context snippets; micro‑influencers keep costs low while resonating with the 18‑25 demographic. |\n| **In‑feed & Story ads** | Allocate a modest budget to targeted Instagram ads that showcase the challenge, the brand’s sustainability story, and a “Shop Now” sticker linking to the landing page. | The “Wear Your Values” snippet mentions budgeted targeted ads and Instagram shopping for seamless purchase. |\n| **Landing page** | A simple, mobile‑friendly page (as in “Threads for a Greener Tomorrow”) with the challenge rules, a gallery of top submissions, and a limited‑time discount code for participants. | Provides a conversion point to drive the 15 % traffic increase. |\n| **Incentives** | Offer a 10 % discount code to anyone who posts with the hashtag and tags the brand; weekly “Best Eco‑Outfit” winners receive a free GreenThreads piece. | Mirrors the discount incentive in the Eco‑Chic Challenge description and motivates participation. |\n| **Content calendar (6‑week rollout)** | 1️⃣ Week 1: Influencer teasers + launch post. <br>2️⃣ Weeks 2‑4: Daily Reels/Stories from brand & influencers showing production, materials, and user submissions. <br>3️⃣ Weeks 5‑6: Highlight top entries, announce winners, push final discount push. | Structured like the 6‑week “Threads for a Greener Tomorrow” timeline, ensuring consistent posting without overspending. |\n| **Metrics & KPIs** | - Follower growth (target +20 %). <br>- Website visits from Instagram link (target +15 %). <br>- Hashtag usage count. <br>- Discount code redemption rate. | Directly aligns with the stated goals. |\n\n**Budget‑Friendly Tips (from constraints)**\n- Use micro‑influencers instead of high‑cost celebrities.  \n- Leverage organic Reels and Stories; allocate only a small portion of the budget to boost high‑performing posts.  \n- Re‑use influencer‑generated content across both Instagram and TikTok to maximize reach without extra production costs.\n\n**Resulting Flow**\n1. **Pre‑launch** – Influencers post teaser Reels, announce the challenge.  \n2. **Launch day** – Brand posts official challenge Reel, explains rules, shares discount code.  \n3. **Ongoing** – Daily user‑generated content amplified via Stories, occasional brand Reels showing sustainable processes.  \n4. **Wrap‑up** – Showcase winners, drive final traffic to the landing page with a “last‑chance” discount.\n\nThis strategy leverages the proven tactics in the provided context—hashtag challenges, influencer collaborations, Instagram Reels, targeted ads, and a landing page—while staying within a limited budget and targeting the 18‑25 audience to meet the follower and traffic goals.",
+    "retrieved_doc_ids": [
+      "marketing-7",
+      "marketing-47",
+      "marketing-150"
+    ],
+    "retrieval_hit": false,
+    "judge_score": 2,
+    "judge_reasoning": "Missing key details",
+    "retrieval_latency_s": 3.333,
+    "generation_latency_s": 6.385
+  },
+  {
+    "id": "marketing-11",
+    "question": "Design an email marketing campaign to nurture leads for a B2B software company.\nContext: Company: Tech Solutions; Target Audience: Business owners and decision-makers; Constraints: High competition; Goals: 25% open rate, 10% conversion rate; Workflow Stage: Copywriting",
+    "gold_answer": "Create a 3-email sequence: \"The Future of Business\" series. Email 1: \"Unlock Your Business Potential\" ( introduction to Tech Solutions and its benefits); Email 2: \"Success Stories\" (case studies and testimonials); Email 3: \"Get Started\" ( demo invitation and special offer). Use a conversational tone, visually appealing templates, and A/B testing for subject lines and CTAs.",
+    "generated_answer": "**3‑Email Nurture Sequence – “Unlock Your Business Potential”**  \n*Company:* **Tech Solutions**  \n*Audience:* Business owners & decision‑makers  \n*Stage:* Copywriting (focus on persuasive copy that meets the 25 % open‑rate & 10 % conversion targets)\n\n| Email | Goal | Core Message | Personalization | Subject‑Line (A/B) | CTA |\n|-------|------|--------------|-----------------|--------------------|-----|\n| **1 – Introduction** | Capture interest & achieve the 25 % open rate | Briefly introduce Tech Solutions, highlight the biggest pain point for the recipient’s industry (e.g., “streamlining operations in *{{Company}}*’s *{{Industry}}*”), and position the platform as the key to unlocking efficiency. Use a conversational tone. | “Hi {{FirstName}}, I noticed *{{Company}}* is expanding its *{{Industry}}* services…” | A: “Unlock Your Business Potential at *{{Company}}*” / B: “How *{{Company}}* can stay ahead in *{{Industry}}*” | “Learn More” – link to a short, personalized landing page |\n| **2 – Success Stories** | Build credibility & move leads toward conversion | Share 2‑3 concise case studies of similar businesses that achieved measurable results (e.g., 30 % faster workflows, 20 % cost reduction). Include a short testimonial quote. Keep the tone conversational and data‑driven. | “When *{{SimilarCompany}}* in *{{Industry}}* faced the same challenge…” | A: “Real Results for Companies Like *{{Company}}*” / B: “See How *{{SimilarCompany}}* Boosted ROI” | “Read the Full Case Study” – link to downloadable PDF or video |\n| **3 – Exclusive Demo Invitation** | Drive the 10 % conversion (demo sign‑up) | Offer a limited‑time, free, personalized demo plus a special discount if they book within 5 days. Emphasize scarcity (“only 5 slots left for *{{Company}}*”). Use a clear, urgent CTA. | “{{FirstName}}, we’ve reserved a spot just for *{{Company}}*…” | A: “Your Exclusive Demo – Limited Slots” / B: “Get a Personalized Demo & Discount Today” | “Schedule My Demo” – calendar booking link |\n\n**Additional Copywriting Tactics (from the context)**  \n\n- **Conversational tone** throughout – speak directly to the recipient, avoid jargon.  \n- **Visually appealing templates** – clean layout, brand colors, short paragraphs, bullet points for benefits.  \n- **A/B testing** – test subject lines and CTA button copy as shown; iterate to hit the 25 % open‑rate goal.  \n- **Personalization tokens** (company name, industry, decision‑maker name) to stand out in a high‑competition environment.  \n\n**Workflow Summary**  \n\n1. Draft copy for each email using the structure above.  \n2. Insert personalization tokens.  \n3. Design responsive templates.  \n4. Set up A/B tests for subject lines & CTAs.  \n5. Schedule send cadence (e.g., Day 0, Day 3, Day 7).  \n\nThis sequence aligns with the examples in the provided context while meeting Tech Solutions’ lead‑nurture objectives.",
+    "retrieved_doc_ids": [
+      "marketing-109",
+      "marketing-11",
+      "marketing-34"
+    ],
+    "retrieval_hit": true,
+    "judge_score": 1,
+    "judge_reasoning": "Incomplete, lacks required emails",
+    "retrieval_latency_s": 4.334,
+    "generation_latency_s": 7.268
+  },
+  {
+    "id": "marketing-12",
+    "question": "Generate social media posts for a new product launch in the fitness industry.\nContext: Company: FitZone; Target Audience: Fitness enthusiasts; Constraints: Short timeframe; Goals: Create buzz around the new product; Workflow Stage: Post Scheduling",
+    "gold_answer": "Schedule a series of 8 posts across Facebook, Instagram, Twitter, and LinkedIn. Post 1: Teaser (product sneak peek); Post 2-3: Product features and benefits; Post 4: Influencer partnership announcement; Post 5: Special launch offer; Post 6-7: Customer testimonials and reviews; Post 8: Exclusive promo code for followers. Use attention-grabbing visuals and relevant hashtags.",
+    "generated_answer": "The provided context does not contain specific social media posts for a new product launch in the fitness industry.",
+    "retrieved_doc_ids": [
+      "marketing-110",
+      "marketing-192",
+      "marketing-5"
+    ],
+    "retrieval_hit": false,
+    "judge_score": 1,
+    "judge_reasoning": "No posts provided",
+    "retrieval_latency_s": 6.058,
+    "generation_latency_s": 0.74
+  },
+  {
+    "id": "marketing-13",
+    "question": "Create a social media campaign to increase brand awareness for a sustainable fashion brand among Gen Z consumers.\nContext: Company: Verde Clothing, a new sustainable fashion brand; Target Audience: Gen Z (18-24 years old); Constraints: Limited budget ($5,000); Goals: Increase brand awareness by 30% in 6 weeks; Workflow Stage: Strategy.",
+    "gold_answer": "Launch a social media contest, \"Green Revolution,\" where followers share eco-friendly fashion tips using a branded hashtag. Collaborate with 5 eco-influencers to promote the contest. Allocate $2,000 for influencer partnerships, $1,500 for sponsored posts, and $1,500 for prize giveaways.",
+    "generated_answer": "**Campaign Name:** #VerdeEcoChic Challenge  \n\n**Objective (Strategy Stage)** – Boost Verde Clothing’s brand‑awareness among Gen Z (18‑24) by 30 % within 6 weeks on a $5,000 budget.\n\n**Key Tactics (drawn from the provided context)**  \n\n1. **Hashtag Challenge on TikTok & Instagram**  \n   * Launch a “Sustainable Fashion Challenge” (mirroring the “Eco‑Chic Challenge” in the context).  \n   * Encourage users to post short Reels/TikToks showing their eco‑friendly outfits using the branded hashtag **#VerdeEcoChic**.  \n\n2. **Influencer Partnerships**  \n   * Partner with **5 eco‑influencers** (micro‑influencers who resonate with Gen Z).  \n   * Allocate **$500** for influencer collaborations (≈$100 per influencer) to create reels, stories, and posts that kick‑start the challenge and demonstrate Verde’s sustainable materials.  \n\n3. **Paid Social Boost**  \n   * Use **$500** for targeted TikTok and Instagram ads promoting the challenge hashtag and the influencer‑generated content. Target interests: sustainable fashion, eco‑lifestyle, Gen Z trends.  \n\n4. **User‑Generated Content (UGC) Amplification**  \n   * Repost the best participant videos on Verde’s official channels.  \n   * Offer a **discount code** to anyone who shares a qualifying post (as in the “Eco‑Chic Challenge” example).  \n\n5. **Budget Allocation Overview**  \n   * Influencer fees: **$500**  \n   * Paid ads: **$500**  \n   * Creative assets (graphics, video editing, hashtag graphics): **$1,000**  \n   * Contest incentives (discounts, small giveaway items): **$500**  \n   * Remaining **$2,500** reserved for community management, analytics tools, and contingency.  \n\n6. **Metrics for Success**  \n   * Track hashtag impressions, reach, and engagement rates on TikTok & Instagram.  \n   * Measure follower growth and brand‑mention volume to confirm the 30 % awareness lift by week 6.  \n\n**Execution Timeline (6 weeks)**  \n\n| Week | Activity |\n|------|----------|\n| 1    | Influencer content creation & teaser posts; launch hashtag challenge. |\n| 2‑3  | Paid ad boost; encourage UGC submissions; monitor engagement. |\n| 4    | Highlight top UGC on brand feed; issue discount codes. |\n| 5‑6  | Continue ad spend; run a mini‑giveaway for most creative post; compile results and assess awareness lift. |\n\nThis strategy leverages the proven “Sustainable Fashion Challenge” model, aligns with Gen Z’s preference for short‑form video, and stays within the $5,000 budget while targeting the 30 % awareness increase goal.",
+    "retrieved_doc_ids": [
+      "marketing-22",
+      "marketing-7",
+      "marketing-65"
+    ],
+    "retrieval_hit": false,
+    "judge_score": 2,
+    "judge_reasoning": "Missing influencer and budget specifics",
+    "retrieval_latency_s": 0.752,
+    "generation_latency_s": 12.253
+  },
+  {
+    "id": "marketing-14",
+    "question": "Develop a targeted ad campaign to promote a new AI-powered fitness app among fitness enthusiasts.\nContext: Company: FitGenie, a new AI-powered fitness app; Target Audience: Fitness enthusiasts (25-45 years old); Constraints: Limited ad budget ($10,000); Goals: Acquire 10,000 new users in 3 months; Workflow Stage: Image Generation.",
+    "gold_answer": "Create eye-catching ad visuals showcasing fit individuals using the app, with bold headlines emphasizing AI-driven personalized workouts. Allocate $3,000 for Facebook and Instagram ads, $2,000 for Google Ads, and $5,000 for influencer partnerships.",
+    "generated_answer": "The provided context does not contain information on developing a targeted ad campaign for the FitGenie app.",
+    "retrieved_doc_ids": [
+      "marketing-160",
+      "marketing-174",
+      "marketing-94"
+    ],
+    "retrieval_hit": false,
+    "judge_score": 1,
+    "judge_reasoning": "No relevant campaign provided",
+    "retrieval_latency_s": 0.986,
+    "generation_latency_s": 2.772
+  },
+  {
+    "id": "marketing-15",
+    "question": "Write engaging copy for an email newsletter promoting a new sustainable coffee subscription service.\nContext: Company: GreenBrew, a sustainable coffee subscription service; Target Audience: Environmentally conscious coffee lovers (25-50 years old); Constraints: Limited email list (5,000 subscribers); Goals: Increase subscription sales by 20% in 2 months; Workflow Stage: Copywriting.",
+    "gold_answer": "Craft a compelling newsletter highlighting the eco-friendly benefits of GreenBrew's sustainable coffee sourcing, featuring customer testimonials, and offering a limited-time discount (15% off) for new subscribers.",
+    "generated_answer": "**Subject:** ☕️ Sip Sustainably – 15% Off Your First GreenBrew Subscription!  \n\n**Pre‑header:** Join the eco‑friendly coffee movement and enjoy a limited‑time discount.\n\n---\n\nHi [First Name],\n\nImagine starting every morning with a cup of coffee that’s as good for the planet as it is for your palate. GreenBrew’s new **sustainable coffee subscription** delivers freshly roasted, responsibly sourced beans straight to your door—so you can enjoy great flavor while supporting eco‑friendly farming practices.\n\n**Why GreenBrew?**  \n- **Zero‑deforestation sourcing** – our beans come from farms that protect native forests.  \n- **Carbon‑neutral roasting** – we offset emissions at every step.  \n- **Fair‑trade partnerships** – growers receive a living wage, ensuring long‑term stewardship of the land.\n\n**What our community is saying**  \n> “I love knowing my coffee helps preserve the rainforest. The taste is unbeatable!” – *Emily, 32*  \n> “GreenBrew makes sustainable living effortless. I never miss a brew!” – *James, 45*\n\n**Limited‑time offer:**  \nSubscribe now and get **15 % off** your first order. This exclusive discount is only available to our email community of 5,000 coffee lovers—don’t miss out!\n\n👉 **[Start My Subscription & Save 15 %]**  \n\nJoin the movement, enjoy premium coffee, and make a positive impact with every sip.\n\nCheers to a greener cup,  \nThe GreenBrew Team  \n\n*Offer expires in 14 days. Terms apply.*",
+    "retrieved_doc_ids": [
+      "marketing-55",
+      "marketing-22",
+      "marketing-15"
+    ],
+    "retrieval_hit": true,
+    "judge_score": 3,
+    "judge_reasoning": "Missing testimonials, incomplete copy",
+    "retrieval_latency_s": 4.184,
+    "generation_latency_s": 4.898
+  },
+  {
+    "id": "marketing-16",
+    "question": "Schedule a series of Instagram posts promoting a new beauty product launch for a cosmetics company.\nContext: Company: BeautyBliss, a cosmetics company; Target Audience: Beauty enthusiasts (18-40 years old); Constraints: Limited content creation budget ($2,000); Goals: Generate buzz around the new product launch; Workflow Stage: Post Scheduling.",
+    "gold_answer": "Schedule 6 Instagram posts over 2 weeks, featuring product teasers, behind-the-scenes content, and user-generated reviews. Utilize",
+    "generated_answer": "The provided context does not contain information on scheduling Instagram posts for a beauty product launch for BeautyBliss.",
+    "retrieved_doc_ids": [
+      "marketing-14",
+      "marketing-0",
+      "marketing-29"
+    ],
+    "retrieval_hit": false,
+    "judge_score": 1,
+    "judge_reasoning": "Does not answer prompt",
+    "retrieval_latency_s": 3.434,
+    "generation_latency_s": 4.461
+  },
+  {
+    "id": "marketing-17",
+    "question": "Create a social media campaign to increase brand awareness among Gen Z for a sustainable fashion brand.\nContext: Company: GreenCycle Clothing; Target Audience: Gen Z (18-24); Constraints: Limited budget; Goals: Increase brand awareness by 20% in 6 weeks; Workflow Stage: Strategy.",
+    "gold_answer": "Develop a TikTok-focused campaign, leveraging hashtags like #Sustainability and #EcoFashion, with short, engaging videos showcasing the brand's eco-friendly production process and encouraging users to share their own sustainable fashion tips.",
+    "generated_answer": "**Campaign Name:** **Eco‑Warriors Unite – Gen Z Edition**\n\n**Objective (Strategy Stage)**  \n- Boost GreenCycle Clothing’s brand awareness among Gen Z (18‑24) by 20 % within 6 weeks.  \n\n**Core Channels**  \n- **TikTok** – short, high‑energy videos (15‑30 s).  \n- **Instagram** – Reels, Stories, and carousel posts.  \n\n**Key Tactics (drawn from the provided context)**  \n\n1. **Hashtag Bundle** – Use #Sustainability, #EcoFashion, #EcoWarriorsUnite and tag eco‑conscious brands.  \n2. **Video Content** – Produce quick clips that:  \n   - Show GreenCycle’s eco‑friendly production process.  \n   - Highlight sustainable materials and waste‑reduction steps.  \n   - Invite users to share their own sustainable‑fashion tips.  \n3. **User‑Generated Content (UGC) Challenge** – Launch the **#EcoChallenge**:  \n   - Ask followers to post a Reel or TikTok showing how they style GreenCycle pieces sustainably.  \n   - Require tagging @GreenCycle and using the campaign hashtags.  \n   - Offer a **discount code** (e.g., “GENZ20”) to participants who post.  \n4. **Micro‑Influencer Partnerships** – Collaborate with 3–5 eco‑influencers (10‑30 k followers) for sponsored Reels/TikToks that demonstrate the challenge and the discount code.  \n5. **Budget Allocation** – With a limited budget, allocate **$500** to Instagram paid promotion (boost top Reels and UGC posts) and use organic reach on TikTok. Influencer fees are negotiated as product‑exchange or low‑cost placements.  \n\n**Timeline (6 weeks)**  \n\n| Week | Activity |\n|------|----------|\n| 1‑2  | Launch teaser videos + announce #EcoChallenge; seed content with influencers. |\n| 3‑4  | Amplify top UGC posts; run $500 Insta boost; share behind‑the‑scenes production clips. |\n| 5‑6  | Highlight best challenge entries; announce winner (e.g., free outfit); push final discount code push. |\n\n**KPIs to Track**  \n- Reach & impressions on TikTok & Instagram (target +20 % lift).  \n- Number of UGC posts using #EcoChallenge.  \n- Discount‑code redemptions.  \n- Follower growth on both platforms.  \n\n**Resulting Strategy** – By combining short, engaging video storytelling, a clear UGC challenge, strategic micro‑influencer collaborations, and a modest paid boost, GreenCycle can achieve the 20 % awareness increase within the 6‑week window while staying within a limited budget.",
+    "retrieved_doc_ids": [
+      "marketing-17",
+      "marketing-86",
+      "marketing-50"
+    ],
+    "retrieval_hit": true,
+    "judge_score": 2,
+    "judge_reasoning": "Partial TikTok, missing hashtags",
+    "retrieval_latency_s": 0.927,
+    "generation_latency_s": 2.111
+  },
+  {
+    "id": "marketing-18",
+    "question": "Design an email marketing campaign to promote a new line of eco-friendly cleaning products.\nContext: Company: CleanStart; Target Audience: Environmentally conscious homeowners; Constraints: Limited email list; Goals: Boost sales by 15% in 3 months; Workflow Stage: Copywriting.",
+    "gold_answer": "Craft a compelling email series highlighting the benefits of eco-friendly cleaning, featuring customer testimonials, and offering a 10% discount on the new product line for subscribers, with a clear call-to-action to drive sales.",
+    "generated_answer": "The provided context does not contain information on designing an email marketing campaign.",
+    "retrieved_doc_ids": [
+      "marketing-111",
+      "marketing-24",
+      "marketing-6"
+    ],
+    "retrieval_hit": false,
+    "judge_score": 1,
+    "judge_reasoning": "Fails to address task",
+    "retrieval_latency_s": 6.159,
+    "generation_latency_s": 0.284
+  },
+  {
+    "id": "marketing-19",
+    "question": "Develop a content marketing strategy for a B2B AI-powered cybersecurity firm.\nContext: Company: CyberShield; Target Audience: IT professionals; Constraints: Highly competitive market; Goals: Establish thought leadership and generate 50 new leads in 6 months; Workflow Stage: Strategy.",
+    "gold_answer": "Create a comprehensive content hub featuring in-depth guides, webinars, and whitepapers on AI-powered cybersecurity, leveraging LinkedIn and Twitter to promote the content and engage with industry influencers.",
+    "generated_answer": "**Content Marketing Strategy – CyberShield (B2B AI‑Powered Cybersecurity)**  \n\n**1. Core Asset – AI‑Cybersecurity Content Hub**  \n- Build a dedicated hub on the website that aggregates **in‑depth guides, whitepapers, and recorded webinars** focused on AI‑driven threat detection, response automation, and compliance.  \n- Tag each asset for SEO (e.g., “AI threat hunting,” “machine‑learning security analytics”) to capture organic traffic from IT professionals searching for solutions.\n\n**2. Thought‑Leadership Mix**  \n- **Industry insights & thought‑leadership articles** (e.g., “AI vs. Advanced Persistent Threats”) published weekly on the hub and cross‑posted to LinkedIn and Twitter.  \n- **Company news** (product updates, partnership announcements) interspersed to keep the brand top‑of‑mind.  \n\n**3. Content Formats & Cadence**  \n| Format | Frequency | Purpose |\n|--------|-----------|---------|\n| Blog posts (SEO‑optimized) | 2 × / week | Educational, capture search traffic |\n| Infographics | 1 × / week | Quick visual takeaways, shareable |\n| Short videos (1‑2 min) | 2 × / month | Demonstrate AI features, humanize brand |\n| Polls & interactive posts | 1 × / week | Boost engagement, gather audience insights |\n| Webinars & workshops | 1 × / month | Deep dive, lead capture (registration) |\n| Whitepapers | Quarterly | Authority building, gated for lead gen |\n\n**4. Distribution & Amplification**  \n- **LinkedIn:** Publish all long‑form pieces, promote webinars, tag industry influencers, and join relevant IT security groups.  \n- **Twitter:** Share bite‑size insights, infographics, and live‑tweet webinar highlights; use hashtags (#AIsecurity, #CyberOps).  \n- Engage **industry influencers** by inviting them as guest speakers on webinars and co‑authoring whitepapers; amplify their content through both channels.\n\n**5. Lead Generation Tactics**  \n- Gate all **guides, whitepapers, and webinar recordings** behind a simple lead capture form (name, email, company, role).  \n- Use **LinkedIn Lead Gen Forms** for promoted posts targeting IT professionals in the competitive cybersecurity segment.  \n- Implement **retargeting ads** on LinkedIn/Twitter for visitors who accessed hub content but didn’t convert.\n\n**6. KPI Tracking (6‑month horizon)**  \n- **Thought leadership:** 30+ published assets (guides, webinars, articles).  \n- **Engagement:** 5 % average post engagement rate; 1 % click‑through on gated assets.  \n- **Leads:** Minimum 50 qualified leads (IT professionals) captured via gated content and webinar registrations.  \n\n**7. Timeline (Strategy Phase → Execution)**  \n- **Month 1:** Build content hub, outline guide topics, schedule first webinar, create editorial calendar.  \n- **Months 2‑3:** Publish first batch of guides/whitepapers, launch LinkedIn/Twitter promotion, begin influencer outreach.  \n- **Months 4‑6:** Ramp up webinars, introduce polls & videos, monitor lead flow, optimize SEO and ad spend to meet the 50‑lead target.\n\n*This strategy leverages the content‑hub model, a balanced mix of educational and promotional assets, and targeted social amplification to position CyberShield as a thought leader and generate qualified B2B leads in a highly competitive market.*",
+    "retrieved_doc_ids": [
+      "marketing-19",
+      "marketing-95",
+      "marketing-55"
+    ],
+    "retrieval_hit": true,
+    "judge_score": 3,
+    "judge_reasoning": "Partial hub, lacks promotion",
+    "retrieval_latency_s": 5.018,
+    "generation_latency_s": 7.399
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id": "finance-0",
+    "question": "What area did NVIDIA initially focus on before expanding to other computationally intensive fields?",
+    "gold_answer": "NVIDIA initially focused on PC graphics.",
+    "generated_answer": "NVIDIA originally focused on PC graphics.",
+    "retrieved_doc_ids": [
+      "finance-NVDA-2023_10K-0",
+      "finance-NVDA-2023_10K-9",
+      "finance-AAPL-2023_10K-113",
+      "finance-NVDA-2023_10K-8",
+      "finance-AAPL-2023_10K-136"
+    ],
+    "retrieval_hit": true,
+    "judge_score": 5,
+    "judge_reasoning": "The generated answer matches the gold answer in meaning, stating that NVIDIA initially focused on PC graphics.",
+    "retrieval_latency_s": 1.416,
+    "generation_latency_s": 0.304
+  },
+  {
+    "id": "finance-1",
+    "question": "What are some of the recent applications of GPU-powered deep learning as mentioned by NVIDIA?",
+    "gold_answer": "Recent applications of GPU-powered deep learning include recommendation systems, large language models, and generative AI.",
+    "generated_answer": "NVIDIA cites several of the most recent GPU‑powered deep‑learning applications, including:\n\n- **Recommendation systems** – AI algorithms that learn users’ preferences, past decisions and product characteristics from interaction data.  \n- **Large language models** – models that can recognize, summarize, translate, predict and generate text and other content using knowledge from massive datasets.  \n- **Generative AI** – algorithms that create new content such as audio, code, images, text, simulations and videos based on the data they were trained on.",
+    "retrieved_doc_ids": [
+      "finance-NVDA-2023_10K-1",
+      "finance-NVDA-2023_10K-13",
+      "finance-NVDA-2023_10K-21",
+      "finance-NVDA-2023_10K-54",
+      "finance-NVDA-2023_10K-26"
+    ],
+    "retrieval_hit": true,
+    "judge_score": 5,
+    "judge_reasoning": "The generated answer correctly lists recommendation systems, large language models, and generative AI as recent GPU-powered deep learning applications, matching the gold answer.",
+    "retrieval_latency_s": 0.462,
+    "generation_latency_s": 4.372
+  },
+  {
+    "id": "finance-2",
+    "question": "What significant invention did NVIDIA create in 1999?",
+    "gold_answer": "NVIDIA invented the GPU in 1999.",
+    "generated_answer": "NVIDIA invented the GPU (graphics processing unit) in 1999.",
+    "retrieved_doc_ids": [
+      "finance-NVDA-2023_10K-2",
+      "finance-NVDA-2023_10K-3",
+      "finance-NVDA-2023_10K-54",
+      "finance-NVDA-2023_10K-53",
+      "finance-NVDA-2023_10K-51"
+    ],
+    "retrieval_hit": true,
+    "judge_score": 5,
+    "judge_reasoning": "The generated answer correctly states that NVIDIA invented the GPU in 1999, matching the gold answer.",
+    "retrieval_latency_s": 1.361,
+    "generation_latency_s": 0.548
+  },
+  {
+    "id": "finance-3",
+    "question": "How does NVIDIA's platform strategy contribute to the markets it serves?",
+    "gold_answer": "NVIDIA's platform strategy brings together hardware, systems, software, algorithms, libraries, and services to create unique value.",
+    "generated_answer": "NVIDIA’s platform strategy ties together every layer of its technology—hardware (energy‑efficient GPUs, DPUs and high‑speed interconnects), system designs, the CUDA programming model, a growing suite of software libraries, SDKs, application frameworks and services, as well as the algorithms that run on them. By bundling these components into a single, cohesive computing platform, NVIDIA can accelerate the most demanding workloads (AI, data analytics, graphics, scientific computing) across a wide range of environments—hyperscale clouds, enterprise and public‑sector data centers, edge sites, and other verticals.  \n\nThis integrated approach lets the company deliver “unique value” to each market, because the same underlying technology can be reused and customized for many multi‑billion‑dollar end‑markets through internal and partner‑developed software stacks. In short, the platform strategy creates a common, high‑performance foundation that speeds development, improves efficiency, and expands NVIDIA’s reach across the diverse markets it serves.",
+    "retrieved_doc_ids": [
+      "finance-NVDA-2023_10K-3",
+      "finance-NVDA-2023_10K-9",
+      "finance-NVDA-2023_10K-24",
+      "finance-NVDA-2023_10K-8",
+      "finance-NVDA-2023_10K-20"
+    ],
+    "retrieval_hit": true,
+    "judge_score": 5,
+    "judge_reasoning": "The generated answer accurately restates that NVIDIA's platform strategy integrates hardware, systems, software, algorithms, libraries, and services to deliver unique value across its markets, matching the gold answer.",
+    "retrieval_latency_s": 0.423,
+    "generation_latency_s": 5.95
+  },
+  {
+    "id": "finance-4",
+    "question": "What does NVIDIA's CUDA programming model enable?",
+    "gold_answer": "NVIDIA's CUDA programming model opened the parallel processing capabilities of GPUs for general purpose computing.",
+    "generated_answer": "NVIDIA’s CUDA programming model enables the parallel‑processing capabilities of its GPUs to be used for general‑purpose computing.",
+    "retrieved_doc_ids": [
+      "finance-NVDA-2023_10K-4",
+      "finance-NVDA-2023_10K-8",
+      "finance-NVDA-2023_10K-21",
+      "finance-NVDA-2023_10K-9",
+      "finance-NVDA-2023_10K-3"
+    ],
+    "retrieval_hit": true,
+    "judge_score": 5,
+    "judge_reasoning": "The generated answer conveys the same meaning as the gold answer, stating that CUDA enables GPUs' parallel processing for general‑purpose computing.",
+    "retrieval_latency_s": 1.407,
+    "generation_latency_s": 1.787
+  },
+  {
+    "id": "finance-5",
+    "question": "What industries use NVIDIA's GPUs and software for automation?",
+    "gold_answer": "NVIDIA's GPUs and software are used for automation in various industries including transportation, healthcare, financial services, professional design, movies, and building products design.",
+    "generated_answer": "The transportation, healthcare, and financial‑services industries use NVIDIA’s GPUs and software to automate their products and services.",
+    "retrieved_doc_ids": [
+      "finance-NVDA-2023_10K-5",
+      "finance-NVDA-2023_10K-17",
+      "finance-NVDA-2023_10K-19",
+      "finance-NVDA-2023_10K-54",
+      "finance-NVDA-2023_10K-26"
+    ],
+    "retrieval_hit": true,
+    "judge_score": 3,
+    "judge_reasoning": "The answer correctly lists transportation, healthcare, and financial services but omits professional design, movies, and building products design, making it only partially complete.",
+    "retrieval_latency_s": 1.325,
+    "generation_latency_s": 0.826
+  },
+  {
+    "id": "finance-6",
+    "question": "Why did NVIDIA and SoftBank terminate their Share Purchase Agreement for acquiring Arm Limited?",
+    "gold_answer": "NVIDIA and SoftBank terminated their Share Purchase Agreement due to significant regulatory challenges that prevented the completion of the transaction.",
+    "generated_answer": "NVIDIA and SoftBank terminated the Share Purchase Agreement for acquiring Arm Limited because of significant regulatory challenges that made it impossible to complete the transaction.",
+    "retrieved_doc_ids": [
+      "finance-NVDA-2023_10K-6",
+      "finance-NVDA-2023_10K-56",
+      "finance-NVDA-2023_10K-35",
+      "finance-NVDA-2023_10K-36",
+      "finance-NVDA-2023_10K-82"
+    ],
+    "retrieval_hit": true,
+    "judge_score": 5,
+    "judge_reasoning": "The generated answer matches the gold answer in meaning, stating the termination was due to significant regulatory challenges preventing completion.",
+    "retrieval_latency_s": 1.392,
+    "generation_latency_s": 0.621
+  },
+  {
+    "id": "finance-7",
+    "question": "What amount did NVIDIA record as an acquisition termination cost in fiscal year 2023?",
+    "gold_answer": "NVIDIA recorded an acquisition termination cost of $1.35 billion in fiscal year 2023.",
+    "generated_answer": "NVIDIA recorded an acquisition termination cost of **$1.35 billion** in fiscal year 2023.",
+    "retrieved_doc_ids": [
+      "finance-NVDA-2023_10K-57",
+      "finance-NVDA-2023_10K-7",
+      "finance-NVDA-2023_10K-36",
+      "finance-NVDA-2023_10K-35",
+      "finance-NVDA-2023_10K-82"
+    ],
+    "retrieval_hit": true,
+    "judge_score": 5,
+    "judge_reasoning": "The generated answer exactly matches the gold answer's amount and context.",
+    "retrieval_latency_s": 1.268,
+    "generation_latency_s": 2.576
+  },
+  {
+    "id": "finance-8",
+    "question": "What does the NVIDIA computing platform focus on accelerating?",
+    "gold_answer": "The NVIDIA computing platform focuses on accelerating the most compute-intensive workloads, such as AI, data analytics, graphics and scientific computing, across various types of data centers.",
+    "generated_answer": "The NVIDIA computing platform is focused on accelerating the most compute‑intensive workloads—specifically AI, data analytics, graphics, and scientific computing.",
+    "retrieved_doc_ids": [
+      "finance-NVDA-2023_10K-9",
+      "finance-NVDA-2023_10K-8",
+      "finance-NVDA-2023_10K-3",
+      "finance-NVDA-2023_10K-16",
+      "finance-NVDA-2023_10K-21"
+    ],
+    "retrieval_hit": true,
+    "judge_score": 5,
+    "judge_reasoning": "The generated answer correctly lists the same compute‑intensive workloads (AI, data analytics, graphics, scientific computing) as the gold answer, fully addressing the question.",
+    "retrieval_latency_s": 0.465,
+    "generation_latency_s": 3.935
+  },
+  {
+    "id": "finance-9",
+    "question": "What are the key components of the NVIDIA computing platform?",
+    "gold_answer": "The NVIDIA computing platform includes energy-efficient GPUs, data processing units (DPUs), interconnects, systems, the CUDA programming model, and a suite of software libraries, SDKs, application frameworks, and services.",
+    "generated_answer": "The NVIDIA computing platform is built around several core elements:\n\n- **Energy‑efficient GPUs**  \n- **Data Processing Units (DPUs)**  \n- **Interconnects and systems**  \n- **The CUDA programming model**  \n- **A growing suite of software assets**, including **software libraries, software development kits (SDKs), application frameworks, and services**.",
+    "retrieved_doc_ids": [
+      "finance-NVDA-2023_10K-8",
+      "finance-NVDA-2023_10K-9",
+      "finance-AAPL-2023_10K-111",
+      "finance-AAPL-2023_10K-116",
+      "finance-NVDA-2023_10K-3"
+    ],
+    "retrieval_hit": true,
+    "judge_score": 5,
+    "judge_reasoning": "The generated answer lists all the same components as the gold answer with equivalent detail.",
+    "retrieval_latency_s": 1.386,
+    "generation_latency_s": 3.177
+  },
+  {
+    "id": "finance-10",
+    "question": "What is the H100 GPU designed to accelerate?",
+    "gold_answer": "The H100 GPU is designed to accelerate applications such as large language models, deep recommender systems, genomics, and complex digital twins.",
+    "generated_answer": "The H100 GPU is designed to accelerate applications such as large language models, deep recommender systems, genomics, and complex digital twins.",
+    "retrieved_doc_ids": [
+      "finance-NVDA-2023_10K-10",
+      "finance-NVDA-2023_10K-54",
+      "finance-NVDA-2023_10K-9",
+      "finance-NVDA-2023_10K-65",
+      "finance-NVDA-2023_10K-8"
+    ],
+    "retrieval_hit": true,
+    "judge_score": 5,
+    "judge_reasoning": "The generated answer exactly matches the gold answer in content and meaning.",
+    "retrieval_latency_s": 1.402,
+    "generation_latency_s": 2.588
+  },
+  {
+    "id": "finance-11",
+    "question": "What services does NVIDIA offer to enterprise customers?",
+    "gold_answer": "NVIDIA offers enterprise customers NVIDIA AI cloud services directly and through a network of partners, which include NVIDIA DGX Cloud for training AI models and customizable pretrained AI models.",
+    "generated_answer": "NVIDIA provides enterprise customers with a suite of AI‑focused cloud services, including:\n\n* **NVIDIA AI Cloud services** – delivered directly or through partners, with offerings such as **NVIDIA DGX Cloud** (cloud‑based infrastructure and software for training AI models) and **customizable pretrained AI models**【1】.  \n* Access to the **NVIDIA GPU Cloud (NGC) registry**, a catalog of ready‑to‑use, optimized software stacks for scientific computing, deep learning and machine learning that can be deployed on DGX systems, NVIDIA‑certified partner systems, or through NVIDIA’s cloud partners【3】.  \n* The broader **NVIDIA computing platform**, which supplies the underlying hardware (energy‑efficient GPUs and DPUs), interconnects, the CUDA programming model, and a growing set of software libraries, SDKs, application frameworks and services that can be packaged or sold separately【4】【5】.",
+    "retrieved_doc_ids": [
+      "finance-NVDA-2023_10K-11",
+      "finance-NVDA-2023_10K-3",
+      "finance-NVDA-2023_10K-13",
+      "finance-NVDA-2023_10K-9",
+      "finance-NVDA-2023_10K-8"
+    ],
+    "retrieval_hit": true,
+    "judge_score": 5,
+    "judge_reasoning": "The answer correctly states that NVIDIA provides AI cloud services directly and via partners, including DGX Cloud for model training and customizable pretrained models, matching the gold answer while adding accurate extra details.",
+    "retrieval_latency_s": 1.42,
+    "generation_latency_s": 2.665
+  },
+  {
+    "id": "finance-12",
+    "question": "What does the Bluefield DPU support?",
+    "gold_answer": "The Bluefield DPU is supported by foundational data-center-infrastructure-on-a-chip software, or DOCA, which enables developers to build software-defined, hardware-accelerated networking, security, storage, and management applications.",
+    "generated_answer": "The Bluefield DPU is supported by NVIDIA’s foundational data‑center‑infrastructure‑on‑a‑chip software (DOCA), which enables developers to build software‑defined, hardware‑accelerated networking, security, storage and management applications for BlueField DPUs.",
+    "retrieved_doc_ids": [
+      "finance-NVDA-2023_10K-12",
+      "finance-NVDA-2023_10K-8",
+      "finance-AAPL-2023_10K-178",
+      "finance-NVDA-2023_10K-9",
+      "finance-AAPL-2023_10K-115"
+    ],
+    "retrieval_hit": true,
+    "judge_score": 5,
+    "judge_reasoning": "The generated answer matches the gold answer in content, accurately stating DOCA support and its capabilities, with only minor equivalent additions.",
+    "retrieval_latency_s": 1.365,
+    "generation_latency_s": 5.32
+  },
+  {
+    "id": "finance-13",
+    "question": "What does the NVIDIA GPU Cloud registry offer?",
+    "gold_answer": "The NVIDIA GPU Cloud registry offers a comprehensive catalog of easy-to-use, optimized software stacks across various domains including scientific computing, deep learning, and machine learning, enabling AI developers, researchers, and data scientists to get started with the development of AI and HPC applications and deploy them on various systems.",
+    "generated_answer": "The NVIDIA GPU Cloud registry (NGC) provides a comprehensive catalog of easy‑to‑use, optimized software stacks for a variety of domains—including scientific computing, deep learning and machine learning—so AI developers, researchers and data scientists can quickly start building AI and HPC applications and deploy them on DGX systems, NVIDIA‑certified hardware or through NVIDIA’s cloud partners.",
+    "retrieved_doc_ids": [
+      "finance-NVDA-2023_10K-13",
+      "finance-NVDA-2023_10K-11",
+      "finance-NVDA-2023_10K-54",
+      "finance-NVDA-2023_10K-16",
+      "finance-NVDA-2023_10K-2"
+    ],
+    "retrieval_hit": true,
+    "judge_score": 5,
+    "judge_reasoning": "The generated answer matches the gold answer in content and meaning, accurately describing the NGC registry's comprehensive, optimized software catalog and its target users and deployment options.",
+    "retrieval_latency_s": 1.466,
+    "generation_latency_s": 4.095
+  },
+  {
+    "id": "finance-14",
+    "question": "What are the technological features of the GeForce RTX 40 Series GPUs?",
+    "gold_answer": "The GeForce RTX 40 Series GPUs feature third generation RTX technology, third generation NVIDIA DLSS, and fourth generation Tensor Cores, providing up to 4X the performance of the previous generation.",
+    "generated_answer": "The GeForce RTX 40 Series GPUs are built on the Ada Lovelace architecture and incorporate:\n\n- **Third‑generation RTX technology**  \n- **Third‑generation NVIDIA DLSS** (Deep Learning Super Sampling)  \n- **Fourth‑generation Tensor Cores**  \n\nThese advancements enable the 40 Series to deliver up to **four times the performance** of the prior generation.",
+    "retrieved_doc_ids": [
+      "finance-NVDA-2023_10K-15",
+      "finance-NVDA-2023_10K-14",
+      "finance-NVDA-2023_10K-23",
+      "finance-NVDA-2023_10K-54",
+      "finance-AAPL-2023_10K-114"
+    ],
+    "retrieval_hit": true,
+    "judge_score": 5,
+    "judge_reasoning": "The answer includes all gold features (3rd-gen RTX, 3rd-gen DLSS, 4th-gen Tensor Cores) and correctly states up to 4× performance, matching the reference.",
+    "retrieval_latency_s": 1.451,
+    "generation_latency_s": 1.941
+  },
+  {
+    "id": "finance-15",
+    "question": "What generation technology does the 40 Series graphics cards feature?",
+    "gold_answer": "The 40 Series graphics cards feature third generation RTX technology, third generation NVIDIA DLSS, and fourth generation Tensor Cores.",
+    "generated_answer": "The 40 Series graphics cards feature **third‑generation RTX technology** (along with third‑generation NVIDIA DLSS and fourth‑generation Tensor Cores).",
+    "retrieved_doc_ids": [
+      "finance-NVDA-2023_10K-15",
+      "finance-NVDA-2023_10K-14",
+      "finance-NVDA-2023_10K-2",
+      "finance-NVDA-2023_10K-23",
+      "finance-AAPL-2023_10K-178"
+    ],
+    "retrieval_hit": true,
+    "judge_score": 5,
+    "judge_reasoning": "The generated answer includes all three technologies exactly as in the gold answer, matching meaning fully.",
+    "retrieval_latency_s": 4.305,
+    "generation_latency_s": 0.865
+  },
+  {
+    "id": "finance-16",
+    "question": "What capabilities are introduced by NVIDIA's GPU computing platform for the Professional Visualization market?",
+    "gold_answer": "NVIDIA's GPU computing platform enhances productivity and introduces new capabilities for critical workflows in fields such as design and manufacturing, and digital content creation.",
+    "generated_answer": "NVIDIA’s GPU computing platform for Professional Visualization boosts productivity and adds new capabilities to the critical workflows used in design, manufacturing and digital‑content‑creation applications.",
+    "retrieved_doc_ids": [
+      "finance-NVDA-2023_10K-16",
+      "finance-NVDA-2023_10K-9",
+      "finance-NVDA-2023_10K-8",
+      "finance-NVDA-2023_10K-4",
+      "finance-NVDA-2023_10K-54"
+    ],
+    "retrieval_hit": true,
+    "judge_score": 5,
+    "judge_reasoning": "The generated answer matches the gold answer in meaning, using synonymous phrasing to convey the same capabilities and target fields.",
+    "retrieval_latency_s": 1.422,
+    "generation_latency_s": 4.756
+  },
+  {
+    "id": "finance-17",
+    "question": "What kind of applications now support RTX technology?",
+    "gold_answer": "Many leading 3D design and content creation applications now support RTX technology.",
+    "generated_answer": "Many leading 3D design and content‑creation applications now support RTX technology.",
+    "retrieved_doc_ids": [
+      "finance-NVDA-2023_10K-17",
+      "finance-NVDA-2023_10K-15",
+      "finance-NVDA-2023_10K-14",
+      "finance-NVDA-2023_10K-13",
+      "finance-NVDA-2023_10K-16"
+    ],
+    "retrieval_hit": true,
+    "judge_score": 5,
+    "judge_reasoning": "The generated answer matches the gold answer in content and meaning, using only minor formatting differences.",
+    "retrieval_latency_s": 1.441,
+    "generation_latency_s": 1.739
+  },
+  {
+    "id": "finance-18",
+    "question": "What are some current enterprise applications of VR and AR technologies?",
+    "gold_answer": "Current enterprise applications of VR and AR technologies include virtual car showrooms, surgical training, architectural walkthroughs, and bringing historical scenes to life.",
+    "generated_answer": "Current enterprise applications of VR and AR technologies include virtual car showrooms, surgical training, architectural walkthroughs, and bringing historical scenes to life.",
+    "retrieved_doc_ids": [
+      "finance-NVDA-2023_10K-18",
+      "finance-NVDA-2023_10K-11",
+      "finance-NVDA-2023_10K-1",
+      "finance-NVDA-2023_10K-17",
+      "finance-NVDA-2023_10K-54"
+    ],
+    "retrieval_hit": true,
+    "judge_score": 5,
+    "judge_reasoning": "The generated answer exactly matches the gold answer in content and meaning.",
+    "retrieval_latency_s": 1.455,
+    "generation_latency_s": 0.326
+  },
+  {
+    "id": "finance-19",
+    "question": "What features does the DRIVE Software platform include?",
+    "gold_answer": "The DRIVE Software platform includes DRIVE Chauffeur for autonomous driving, mapping and parking services, Drive Concierge for intelligent in-vehicle experiences, and real time conversational AI capability based on NVIDIA Omniverse Avatar software.",
+    "generated_answer": "The DRIVE Software platform includes:\n\n- **DRIVE Chauffeur** – autonomous‑driving capabilities, plus mapping and parking services  \n- **Drive Concierge** – intelligent in‑vehicle experiences  \n- **Real‑time conversational AI** – built on NVIDIA Omniverse Avatar software.",
+    "retrieved_doc_ids": [
+      "finance-NVDA-2023_10K-19",
+      "finance-NVDA-2023_10K-8",
+      "finance-NVDA-2023_10K-9",
+      "finance-NVDA-2023_10K-22",
+      "finance-NVDA-2023_10K-16"
+    ],
+    "retrieval_hit": true,
+    "judge_score": 5,
+    "judge_reasoning": "The generated answer lists all the same features as the gold answer with equivalent detail.",
+    "retrieval_latency_s": 0.433,
+    "generation_latency_s": 4.009
+  }
+]

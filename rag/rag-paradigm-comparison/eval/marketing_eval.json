@@ -1,0 +1,162 @@
+[
+  {
+    "id": "marketing-0",
+    "vertical": "marketing",
+    "question": "Develop a social media campaign to increase brand awareness and drive sales for a new sustainable fashion line.\nContext: Company: GreenCycle Clothing\nTarget Audience: Environmentally conscious millennials\nConstraints: Limited budget ($5,000)\nGoals: 20% increase in brand awareness, 15% increase in sales\nWorkflow Stage: Strategy",
+    "gold_answer": "\"Revolutionize Your Wardrobe\" campaign, leveraging Instagram and TikTok influencers to showcase eco-friendly fashion. Collaborate with 5 influencers for sponsored content, utilizing hashtags #SustainabilityInFashion and #GreenCycleClothing. Allocate $2,000 for influencer partnerships, $1,500 for targeted ads, and $1,500 for content creation. Monitor engagement and adjust ad spend accordingly.",
+    "gold_context": "\"Revolutionize Your Wardrobe\" campaign, leveraging Instagram and TikTok influencers to showcase eco-friendly fashion. Collaborate with 5 influencers for sponsored content, utilizing hashtags #SustainabilityInFashion and #GreenCycleClothing. Allocate $2,000 for influencer partnerships, $1,500 for targeted ads, and $1,500 for content creation. Monitor engagement and adjust ad spend accordingly.",
+    "doc_id": "marketing-doc-0"
+  },
+  {
+    "id": "marketing-1",
+    "vertical": "marketing",
+    "question": "Create a content calendar for a B2B software company's blog to establish thought leadership in AI and machine learning.\nContext: Company: NovaTech Solutions\nTarget Audience: Business owners and IT professionals\nConstraints: Publish 2 articles per week\nGoals: 50% increase in website traffic, 20% increase in lead generation\nWorkflow Stage: Content Creation",
+    "gold_answer": "\"AI Insights\" series, covering topics like AI adoption, ML applications, and industry trends. Allocate Mondays for \"Myth-Busting Mondays\" and Thursdays for \"Throwback Thursdays,\" highlighting past successes. Utilize SEO keywords, meta descriptions, and optimize images. Schedule 8 articles per month, with 2 in-depth guides and 2 listicles.",
+    "gold_context": "\"AI Insights\" series, covering topics like AI adoption, ML applications, and industry trends. Allocate Mondays for \"Myth-Busting Mondays\" and Thursdays for \"Throwback Thursdays,\" highlighting past successes. Utilize SEO keywords, meta descriptions, and optimize images. Schedule 8 articles per month, with 2 in-depth guides and 2 listicles.",
+    "doc_id": "marketing-doc-1"
+  },
+  {
+    "id": "marketing-2",
+    "vertical": "marketing",
+    "question": "Design a targeted email campaign to re-engage inactive subscribers for a fitness and wellness center.\nContext: Company: FitZone\nTarget Audience: Inactive subscribers (6+ months)\nConstraints: Limited email list (5,000 subscribers)\nGoals: 20% re-engagement rate, 10% conversion rate\nWorkflow Stage: Email Campaign",
+    "gold_answer": "\"Get Moving Again\" campaign, featuring a 3-email sequence: 1) \"We Miss You\" (personalized greeting, special offer), 2) \"New Classes and Workshops\" (showcasing new services), and 3) \"Exclusive Discounts\" (limited-time promotions). Use segmentation to tailor content based on subscriber interests and inactivity duration. Schedule emails 1 week apart, with A/B testing for subject lines and CTAs.",
+    "gold_context": "\"Get Moving Again\" campaign, featuring a 3-email sequence: 1) \"We Miss You\" (personalized greeting, special offer), 2) \"New Classes and Workshops\" (showcasing new services), and 3) \"Exclusive Discounts\" (limited-time promotions). Use segmentation to tailor content based on subscriber interests and inactivity duration. Schedule emails 1 week apart, with A/B testing for subject lines and CTAs.",
+    "doc_id": "marketing-doc-2"
+  },
+  {
+    "id": "marketing-3",
+    "vertical": "marketing",
+    "question": "Create a social media campaign to increase brand awareness and drive sales for a sustainable fashion brand.\nContext: Company: GreenThreads, a fashion brand using eco-friendly materials and production methods.\nTarget Audience: Fashion-conscious millennials and Gen Z.\nConstraints: Limited budget, high competition in the sustainable fashion market.\nGoals: Increase brand awareness by 20%, drive sales by 15% within 6 months.\nWorkflow Stage: Strategy",
+    "gold_answer": "Develop a social media campaign highlighting GreenThreads' commitment to sustainability, featuring eco-influencers, and utilizing Instagram Reels and TikTok for engaging content. Allocate $1,500 for influencer partnerships and $1,000 for targeted ads. Create a branded hashtag and encourage user-generated content.",
+    "gold_context": "Develop a social media campaign highlighting GreenThreads' commitment to sustainability, featuring eco-influencers, and utilizing Instagram Reels and TikTok for engaging content. Allocate $1,500 for influencer partnerships and $1,000 for targeted ads. Create a branded hashtag and encourage user-generated content.",
+    "doc_id": "marketing-doc-3"
+  },
+  {
+    "id": "marketing-4",
+    "vertical": "marketing",
+    "question": "Design an email marketing campaign to nurture leads for a B2B software company.\nContext: Company: Proxima, a SaaS provider for marketing automation.\nTarget Audience: Marketing professionals and business owners.\nConstraints: High competition, lengthy sales cycle.\nGoals: Increase lead conversion by 25% within 3 months.\nWorkflow Stage: Email Copywriting",
+    "gold_answer": "Create a 5-email nurture sequence: Introduction, Problem agitation, Solution showcase, Social proof, and Exclusive offer. Use personalization and segmentation to tailor content. Include interactive elements like quizzes and surveys to boost engagement.",
+    "gold_context": "Create a 5-email nurture sequence: Introduction, Problem agitation, Solution showcase, Social proof, and Exclusive offer. Use personalization and segmentation to tailor content. Include interactive elements like quizzes and surveys to boost engagement.",
+    "doc_id": "marketing-doc-4"
+  },
+  {
+    "id": "marketing-5",
+    "vertical": "marketing",
+    "question": "Develop a content calendar for a health and wellness blog.\nContext: Company: BalancedLife, a wellness blog and coaching service.\nTarget Audience: Health-conscious individuals.\nConstraints: Limited resources, need for consistent content.\nGoals: Increase website traffic by 30% within 6 months.\nWorkflow Stage: Content Scheduling",
+    "gold_answer": "Plan a content calendar with 3 blog posts per week, focusing on topics like mindfulness, nutrition, and fitness. Utilize SEO keywords and meta descriptions. Schedule social media posts to promote blog content and engage with audience.",
+    "gold_context": "Plan a content calendar with 3 blog posts per week, focusing on topics like mindfulness, nutrition, and fitness. Utilize SEO keywords and meta descriptions. Schedule social media posts to promote blog content and engage with audience.",
+    "doc_id": "marketing-doc-5"
+  },
+  {
+    "id": "marketing-6",
+    "vertical": "marketing",
+    "question": "Create a paid advertising campaign for a new product launch.\nContext: Company: TechGear, an electronics manufacturer.\nTarget Audience: Tech enthusiasts and early adopters.\nConstraints: Limited budget, high competition.\nGoals: Drive sales and generate buzz around the new product.\nWorkflow Stage: Ad Copywriting",
+    "gold_answer": "Develop targeted Google Ads and Facebook Ads campaigns highlighting the product's unique features and benefits. Allocate $5,000 for ad spend and focus on conversion-driven ad copy.",
+    "gold_context": "Develop targeted Google Ads and Facebook Ads campaigns highlighting the product's unique features and benefits. Allocate $5,000 for ad spend and focus on conversion-driven ad copy.",
+    "doc_id": "marketing-doc-6"
+  },
+  {
+    "id": "marketing-7",
+    "vertical": "marketing",
+    "question": "Create a social media campaign to increase brand awareness for a new eco-friendly fashion brand.\nContext: Company: GreenThreads, a sustainable fashion brand targeting millennials and Gen Z. Target audience: environmentally conscious fashion enthusiasts. Constraints: limited budget. Goals: increase brand awareness by 20% in 3 months. Workflow stage: strategy.",
+    "gold_answer": "Develop a social media campaign, \"Eco-Chic Challenge,\" encouraging users to share their sustainable fashion choices. Collaborate with eco-influencers, create engaging content (reels, stories, posts) highlighting GreenThreads' commitment to sustainability. Utilize Instagram's \"Reels\" feature to create a branded hashtag challenge, offering discounts to participants who share their own eco-friendly fashion tips.",
+    "gold_context": "Develop a social media campaign, \"Eco-Chic Challenge,\" encouraging users to share their sustainable fashion choices. Collaborate with eco-influencers, create engaging content (reels, stories, posts) highlighting GreenThreads' commitment to sustainability. Utilize Instagram's \"Reels\" feature to create a branded hashtag challenge, offering discounts to participants who share their own eco-friendly fashion tips.",
+    "doc_id": "marketing-doc-7"
+  },
+  {
+    "id": "marketing-8",
+    "vertical": "marketing",
+    "question": "Design an email marketing campaign to boost sales for a B2B software company.\nContext: Company: TechSolutions, a B2B software provider targeting small to medium-sized businesses. Target audience: business owners and decision-makers. Constraints: limited email list. Goals: increase sales by 15% in 2 months. Workflow stage: copywriting.",
+    "gold_answer": "Create a 3-email nurture campaign, \"Unlock Your Business Potential,\" highlighting TechSolutions' software benefits. Email 1: \"Discover the Power of Our Software\" (introductory email with a free trial offer). Email 2: \"Success Stories\" (case studies and testimonials). Email 3: \"Exclusive Offer\" (limited-time discount for subscribers).",
+    "gold_context": "Create a 3-email nurture campaign, \"Unlock Your Business Potential,\" highlighting TechSolutions' software benefits. Email 1: \"Discover the Power of Our Software\" (introductory email with a free trial offer). Email 2: \"Success Stories\" (case studies and testimonials). Email 3: \"Exclusive Offer\" (limited-time discount for subscribers).",
+    "doc_id": "marketing-doc-8"
+  },
+  {
+    "id": "marketing-9",
+    "vertical": "marketing",
+    "question": "Develop a content marketing strategy for a healthcare company to establish thought leadership.\nContext: Company: MedPro, a healthcare services provider targeting medical professionals and patients. Target audience: healthcare industry experts and patients seeking medical information. Constraints: high competition. Goals: establish thought leadership, increase website traffic by 30% in 6 months. Workflow stage: strategy.",
+    "gold_answer": "Create a content hub, \"MedPro Insights,\" featuring in-depth articles, webinars, and videos on industry trends and best practices. Partner with influential healthcare professionals to contribute guest posts, promoting MedPro's expertise and showcasing its commitment to education and innovation.",
+    "gold_context": "Create a content hub, \"MedPro Insights,\" featuring in-depth articles, webinars, and videos on industry trends and best practices. Partner with influential healthcare professionals to contribute guest posts, promoting MedPro's expertise and showcasing its commitment to education and innovation.",
+    "doc_id": "marketing-doc-9"
+  },
+  {
+    "id": "marketing-10",
+    "vertical": "marketing",
+    "question": "Create a social media campaign to increase brand awareness among younger audiences for a sustainable fashion brand.\nContext: Company: GreenThreads; Target Audience: 18-25-year-olds; Constraints: Limited budget; Goals: 20% increase in followers, 15% increase in website traffic; Workflow Stage: Strategy",
+    "gold_answer": "Develop a social media contest, \"Eco-Chic Challenge,\" where followers share their eco-friendly fashion tips using a branded hashtag. Partner with eco-influencers to promote the contest. Allocate 30% of the budget to Instagram Reels and TikTok ads targeting the specified age group. Create engaging content (images, videos, and captions) highlighting GreenThreads' commitment to sustainability.",
+    "gold_context": "Develop a social media contest, \"Eco-Chic Challenge,\" where followers share their eco-friendly fashion tips using a branded hashtag. Partner with eco-influencers to promote the contest. Allocate 30% of the budget to Instagram Reels and TikTok ads targeting the specified age group. Create engaging content (images, videos, and captions) highlighting GreenThreads' commitment to sustainability.",
+    "doc_id": "marketing-doc-10"
+  },
+  {
+    "id": "marketing-11",
+    "vertical": "marketing",
+    "question": "Design an email marketing campaign to nurture leads for a B2B software company.\nContext: Company: Tech Solutions; Target Audience: Business owners and decision-makers; Constraints: High competition; Goals: 25% open rate, 10% conversion rate; Workflow Stage: Copywriting",
+    "gold_answer": "Create a 3-email sequence: \"The Future of Business\" series. Email 1: \"Unlock Your Business Potential\" ( introduction to Tech Solutions and its benefits); Email 2: \"Success Stories\" (case studies and testimonials); Email 3: \"Get Started\" ( demo invitation and special offer). Use a conversational tone, visually appealing templates, and A/B testing for subject lines and CTAs.",
+    "gold_context": "Create a 3-email sequence: \"The Future of Business\" series. Email 1: \"Unlock Your Business Potential\" ( introduction to Tech Solutions and its benefits); Email 2: \"Success Stories\" (case studies and testimonials); Email 3: \"Get Started\" ( demo invitation and special offer). Use a conversational tone, visually appealing templates, and A/B testing for subject lines and CTAs.",
+    "doc_id": "marketing-doc-11"
+  },
+  {
+    "id": "marketing-12",
+    "vertical": "marketing",
+    "question": "Generate social media posts for a new product launch in the fitness industry.\nContext: Company: FitZone; Target Audience: Fitness enthusiasts; Constraints: Short timeframe; Goals: Create buzz around the new product; Workflow Stage: Post Scheduling",
+    "gold_answer": "Schedule a series of 8 posts across Facebook, Instagram, Twitter, and LinkedIn. Post 1: Teaser (product sneak peek); Post 2-3: Product features and benefits; Post 4: Influencer partnership announcement; Post 5: Special launch offer; Post 6-7: Customer testimonials and reviews; Post 8: Exclusive promo code for followers. Use attention-grabbing visuals and relevant hashtags.",
+    "gold_context": "Schedule a series of 8 posts across Facebook, Instagram, Twitter, and LinkedIn. Post 1: Teaser (product sneak peek); Post 2-3: Product features and benefits; Post 4: Influencer partnership announcement; Post 5: Special launch offer; Post 6-7: Customer testimonials and reviews; Post 8: Exclusive promo code for followers. Use attention-grabbing visuals and relevant hashtags.",
+    "doc_id": "marketing-doc-12"
+  },
+  {
+    "id": "marketing-13",
+    "vertical": "marketing",
+    "question": "Create a social media campaign to increase brand awareness for a sustainable fashion brand among Gen Z consumers.\nContext: Company: Verde Clothing, a new sustainable fashion brand; Target Audience: Gen Z (18-24 years old); Constraints: Limited budget ($5,000); Goals: Increase brand awareness by 30% in 6 weeks; Workflow Stage: Strategy.",
+    "gold_answer": "Launch a social media contest, \"Green Revolution,\" where followers share eco-friendly fashion tips using a branded hashtag. Collaborate with 5 eco-influencers to promote the contest. Allocate $2,000 for influencer partnerships, $1,500 for sponsored posts, and $1,500 for prize giveaways.",
+    "gold_context": "Launch a social media contest, \"Green Revolution,\" where followers share eco-friendly fashion tips using a branded hashtag. Collaborate with 5 eco-influencers to promote the contest. Allocate $2,000 for influencer partnerships, $1,500 for sponsored posts, and $1,500 for prize giveaways.",
+    "doc_id": "marketing-doc-13"
+  },
+  {
+    "id": "marketing-14",
+    "vertical": "marketing",
+    "question": "Develop a targeted ad campaign to promote a new AI-powered fitness app among fitness enthusiasts.\nContext: Company: FitGenie, a new AI-powered fitness app; Target Audience: Fitness enthusiasts (25-45 years old); Constraints: Limited ad budget ($10,000); Goals: Acquire 10,000 new users in 3 months; Workflow Stage: Image Generation.",
+    "gold_answer": "Create eye-catching ad visuals showcasing fit individuals using the app, with bold headlines emphasizing AI-driven personalized workouts. Allocate $3,000 for Facebook and Instagram ads, $2,000 for Google Ads, and $5,000 for influencer partnerships.",
+    "gold_context": "Create eye-catching ad visuals showcasing fit individuals using the app, with bold headlines emphasizing AI-driven personalized workouts. Allocate $3,000 for Facebook and Instagram ads, $2,000 for Google Ads, and $5,000 for influencer partnerships.",
+    "doc_id": "marketing-doc-14"
+  },
+  {
+    "id": "marketing-15",
+    "vertical": "marketing",
+    "question": "Write engaging copy for an email newsletter promoting a new sustainable coffee subscription service.\nContext: Company: GreenBrew, a sustainable coffee subscription service; Target Audience: Environmentally conscious coffee lovers (25-50 years old); Constraints: Limited email list (5,000 subscribers); Goals: Increase subscription sales by 20% in 2 months; Workflow Stage: Copywriting.",
+    "gold_answer": "Craft a compelling newsletter highlighting the eco-friendly benefits of GreenBrew's sustainable coffee sourcing, featuring customer testimonials, and offering a limited-time discount (15% off) for new subscribers.",
+    "gold_context": "Craft a compelling newsletter highlighting the eco-friendly benefits of GreenBrew's sustainable coffee sourcing, featuring customer testimonials, and offering a limited-time discount (15% off) for new subscribers.",
+    "doc_id": "marketing-doc-15"
+  },
+  {
+    "id": "marketing-16",
+    "vertical": "marketing",
+    "question": "Schedule a series of Instagram posts promoting a new beauty product launch for a cosmetics company.\nContext: Company: BeautyBliss, a cosmetics company; Target Audience: Beauty enthusiasts (18-40 years old); Constraints: Limited content creation budget ($2,000); Goals: Generate buzz around the new product launch; Workflow Stage: Post Scheduling.",
+    "gold_answer": "Schedule 6 Instagram posts over 2 weeks, featuring product teasers, behind-the-scenes content, and user-generated reviews. Utilize",
+    "gold_context": "Schedule 6 Instagram posts over 2 weeks, featuring product teasers, behind-the-scenes content, and user-generated reviews. Utilize",
+    "doc_id": "marketing-doc-16"
+  },
+  {
+    "id": "marketing-17",
+    "vertical": "marketing",
+    "question": "Create a social media campaign to increase brand awareness among Gen Z for a sustainable fashion brand.\nContext: Company: GreenCycle Clothing; Target Audience: Gen Z (18-24); Constraints: Limited budget; Goals: Increase brand awareness by 20% in 6 weeks; Workflow Stage: Strategy.",
+    "gold_answer": "Develop a TikTok-focused campaign, leveraging hashtags like #Sustainability and #EcoFashion, with short, engaging videos showcasing the brand's eco-friendly production process and encouraging users to share their own sustainable fashion tips.",
+    "gold_context": "Develop a TikTok-focused campaign, leveraging hashtags like #Sustainability and #EcoFashion, with short, engaging videos showcasing the brand's eco-friendly production process and encouraging users to share their own sustainable fashion tips.",
+    "doc_id": "marketing-doc-17"
+  },
+  {
+    "id": "marketing-18",
+    "vertical": "marketing",
+    "question": "Design an email marketing campaign to promote a new line of eco-friendly cleaning products.\nContext: Company: CleanStart; Target Audience: Environmentally conscious homeowners; Constraints: Limited email list; Goals: Boost sales by 15% in 3 months; Workflow Stage: Copywriting.",
+    "gold_answer": "Craft a compelling email series highlighting the benefits of eco-friendly cleaning, featuring customer testimonials, and offering a 10% discount on the new product line for subscribers, with a clear call-to-action to drive sales.",
+    "gold_context": "Craft a compelling email series highlighting the benefits of eco-friendly cleaning, featuring customer testimonials, and offering a 10% discount on the new product line for subscribers, with a clear call-to-action to drive sales.",
+    "doc_id": "marketing-doc-18"
+  },
+  {
+    "id": "marketing-19",
+    "vertical": "marketing",
+    "question": "Develop a content marketing strategy for a B2B AI-powered cybersecurity firm.\nContext: Company: CyberShield; Target Audience: IT professionals; Constraints: Highly competitive market; Goals: Establish thought leadership and generate 50 new leads in 6 months; Workflow Stage: Strategy.",
+    "gold_answer": "Create a comprehensive content hub featuring in-depth guides, webinars, and whitepapers on AI-powered cybersecurity, leveraging LinkedIn and Twitter to promote the content and engage with industry influencers.",
+    "gold_context": "Create a comprehensive content hub featuring in-depth guides, webinars, and whitepapers on AI-powered cybersecurity, leveraging LinkedIn and Twitter to promote the content and engage with industry influencers.",
+    "doc_id": "marketing-doc-19"
+  }
+]

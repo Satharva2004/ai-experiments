@@ -1,0 +1,19 @@
+groq
+pinecone
+neo4j
+langchain
+langchain-community
+llama-index
+langfuse
+# pinned: nomic-embed-text-v1's custom modeling code (trust_remote_code) is
+# incompatible with transformers 5.x (removed get_extended_attention_mask) and
+# with sentence-transformers 6.x's transformers>=5 requirement. Also requires
+# Python <=3.11 since tokenizers has no cp314 wheel yet. Use the .venv (py3.11)
+# created for this project, not the system Python.
+sentence-transformers==3.3.1
+transformers==4.46.3
+huggingface_hub==0.26.5
+rank-bm25
+python-dotenv
+datasets
+einops
