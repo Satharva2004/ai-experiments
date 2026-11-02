@@ -1,0 +1,62 @@
+[
+  {
+    "image_file": "card_0.jpg",
+    "ground_truth": {
+      "name": "Magmar",
+      "hp": "80",
+      "set_name": "Evolutions"
+    },
+    "base_output": " {\"name\": \"Magmar\", \"hp\": \"80 HP digits only\", \"set_name\": \"Pokémon\"}",
+    "fine_tuned_output": " {\"name\": \"Magmar\", \"hp\": \"80\", \"set_name\": \"Evolutions\"}"
+  },
+  {
+    "image_file": "card_1.jpg",
+    "ground_truth": {
+      "name": "Fearow",
+      "hp": "80",
+      "set_name": "HS—Unleashed"
+    },
+    "base_output": " {\"name\": \"Fearow\", \"hp\": \"83.8\", \"set_name\": \"Stage 1 Evolves from Spearow\"}",
+    "fine_tuned_output": " {\"name\": \"Fearow\", \"hp\": \"80\", \"set_name\": \"HS\\u2014Unleashed\"}"
+  },
+  {
+    "image_file": "card_2.jpg",
+    "ground_truth": {
+      "name": "Toxicroak",
+      "hp": "110",
+      "set_name": "Burning Shadows"
+    },
+    "base_output": " {\"name\": \"Evolves from Croquunk\", \"hp\": \"HP digits only\", \"set_name\": \"HP digits only\"}",
+    "fine_tuned_output": " {\"name\": \"Toxiccroak\", \"hp\": \"110\", \"set_name\": \"Crimson Invasion\"}"
+  },
+  {
+    "image_file": "card_3.jpg",
+    "ground_truth": {
+      "name": "Mantine",
+      "hp": "80",
+      "set_name": "Mysterious Treasures"
+    },
+    "base_output": " {\"name\": \"Mantine\", \"hp\": \"HP digits only\", \"set_name\": \"the set name\"}",
+    "fine_tuned_output": " {\"name\": \"Mantine\", \"hp\": \"80\", \"set_name\": \"Mysterious Treasures\"}"
+  },
+  {
+    "image_file": "card_4.jpg",
+    "ground_truth": {
+      "name": "Pidgeot",
+      "hp": "80",
+      "set_name": "Expedition Base Set"
+    },
+    "base_output": " {\"name\": \"Pidgeot\", \"hp\": \"80 HP digits only\", \"set_name\": \"Pidgeot on the Stage I card\"}",
+    "fine_tuned_output": " {\"name\": \"Pidgeot\", \"hp\": \"80\", \"set_name\": \"Expedition Base Set\"}"
+  },
+  {
+    "image_file": "card_5.jpg",
+    "ground_truth": {
+      "name": "Lumineon V",
+      "hp": "170",
+      "set_name": "Brilliant Stars"
+    },
+    "base_output": " 1700",
+    "fine_tuned_output": " {\"name\": \"Lumineon V\", \"hp\": \"170\", \"set_name\": \"Brilliant Stars\"}"
+  }
+]
