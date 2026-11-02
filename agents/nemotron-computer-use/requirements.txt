@@ -1,0 +1,11 @@
+# server side (Modal) + test client
+modal
+openai
+python-dotenv
+
+# agent (runs on your Mac)
+pyautogui      # mouse and keyboard
+pillow         # screenshot resizing
+sounddevice    # microphone
+numpy
+mlx-whisper    # speech-to-text on Apple Silicon
