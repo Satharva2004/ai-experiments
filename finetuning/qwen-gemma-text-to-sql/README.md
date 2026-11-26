@@ -5,8 +5,6 @@ Fine-tunes **Qwen3-4B** and **Gemma 3 4B-IT** on the [Spider 1.0](https://yale-l
 <img width="1408" height="768" alt="1000156319" src="https://github.com/user-attachments/assets/013b4e5d-d652-4b34-8893-7dced4ee5bd2" />
 
 
-📊 **[View the interactive benchmark report](./spider_sql_benchmark_chart.html)** — open directly in any browser, no server needed.
-
 ---
 
 ## Results (n = 30, execution-verified sample)
@@ -29,7 +27,6 @@ Execution accuracy — not exact match — is the metric that matters here: it c
 | File | Description |
 |---|---|
 | `spider_qwen_gemma_qlora_final.ipynb` | End-to-end Kaggle/Colab notebook: environment detection, dataset download, QLoRA training for both models, adapter upload to Hugging Face, and full evaluation pipeline |
-| `spider_sql_benchmark_chart.html` | Interactive, self-contained benchmark report (open in any browser) |
 | `README.md` | This file |
 
 ---
@@ -76,6 +73,6 @@ Qwen3 is a reasoning model and emits `<think>...</think>` before its answer — 
    - Downloads Spider 1.0 and splits train/validation automatically
    - Trains Qwen3-4B, uploads its adapter, then trains Gemma 3 4B, uploads its adapter
    - Is idempotent — re-running skips any model that already has a saved adapter
-4. Open `spider_sql_benchmark_chart.html` in a browser to view the results.
+4. The final evaluation cells print the base vs. fine-tuned comparison shown in **Results** above.
 
 ---
